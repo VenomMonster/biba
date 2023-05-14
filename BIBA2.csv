@@ -1,0 +1,1001 @@
+Countries,Revenue_generated($),Percentage of Loan Applications_Approved,Loan Types,Percentage_of _LoanPortfolio, Percentage_of_Delinquent_Loans,Loan_origination_Cost_in_USD,Credit_Score_Ranges,Loan_Delinquency_Rate(%),Revenue Distribution_by_Region:,Revenue_generated,Region_revenue_generated,Loan_Application_Stage,Number_of_Loans_or_Conversion_Rate,Cost_Efficiency_Ratio,Time Period_Months($)
+Luxembourg,9857389,89,Fixed-rate mortgage,31,3.5,434,634,3,Americas,14450270,Americas,Lead,799,75.85,10224422
+Luxembourg,9333824,76,Adjustable-rate mortgage,16,2.5,276,501,1,Europe,27221642,Americas,Lead,431,65.45,11126810
+Kuwait,9440763,85,Jumbo mortgage,18,"",302,373,8,Europe,29455689,Europe,Lead,417,67.2,11758920
+"",9034971,73,Fixed-rate mortgage,13,3.5,308,708,2,Asia-Pacific,30178249,Middle East and Africa,Application,234,67.1,11075576
+SAR United States,9655774,72,Adjustable-rate mortgage,21,1,546,331,9,Americas,14125405,Europe,Lead,535,65.33,11587321
+Iceland,9855329,72,Adjustable-rate mortgage,33,2,308,787,10,Middle East and Africa,24359179,Americas,Underwriting,277,67.01,11702497
+Brunei,9223392,86,Jumbo mortgage,15,2.5,349,431,9,Europe,25919194,Europe,Underwriting,598,61.48,11178544
+Macao SAR,9420550,86,Jumbo mortgage,34,2,388,415,8,Europe,27693139,Americas,Lead,771,72.47,9990143
+Iceland,9975825,87,Home Equity Line of Credit Construction loan,19,2,372,591,1,Americas,17889207,Europe,Application,234,73.77,10671766
+Germany,9053605,83,Adjustable-rate mortgage,30,4,513,412,10,Americas,28319902,Europe,Funding,928,65.22,11216937
+Denmark,9335831,75,Jumbo mortgage,9,1.5,399,634,5,Americas,12742747,Asia-Pacific,Funding,454,84.04,11966116
+SAR United States,9108940,89,Home Equity Line of Credit Construction loan,31,2,570,377,6,Americas,16761593,Asia-Pacific,Application,399,64.49,9627196
+United Arab Emirates,9862103,71,Fixed-rate mortgage,14,1.5,268,306,1,Middle East and Africa,32121378,Middle East and Africa,Lead,693,71.86,11110274
+SAR United States,9180194,74,Adjustable-rate mortgage,11,3,253,620,5,Europe,11514096,Asia-Pacific,Application,814,67.79,10635641
+Singapore,9353374,72,Jumbo mortgage,13,3,597,618,2,Middle East and Africa,22416142,Asia-Pacific,Lead,925,71.5,9658353
+Darussalam,9380458,81,Adjustable-rate mortgage,34,1,516,309,8,Europe,33218321,Europe,Funding,782,75.56,10947278
+SAR United States,9910023,81,Fixed-rate mortgage,11,0.5,606,423,4,Europe,17516185,Middle East and Africa,Funding,367,63.46,9592551
+Kuwait,9653592,83,Jumbo mortgage,14,3,318,653,10,Americas,13290156,Americas,Application,962,73.43,10332001
+United Arab Emirates,9832594,84,Home Equity Line of Credit Construction loan,37,2,473,825,5,Europe,24624118,Europe,Application,251,79.57,10262659
+Switzerland,9229334,71,Adjustable-rate mortgage,35,2.5,591,419,10,Americas,23935683,Americas,Lead,298,78.5,11392055
+Iceland,9816996,74,Fixed-rate mortgage,21,"",453,616,4,Americas,13232776,Asia-Pacific,Funding,405,70.59,10510661
+Australia,9194292,75,Home Equity Line of Credit Construction loan,38,2,556,726,3,Americas,20194919,Americas,Application,467,80.3,9866300
+Iceland,9018472,74,Jumbo mortgage,19,3.5,499,380,7,Middle East and Africa,27757131,Asia-Pacific,Lead,883,64.39,9624444
+Ireland,9869481,76,Adjustable-rate mortgage,20,4,483,530,2,Middle East and Africa,19040963,Middle East and Africa,Underwriting,911,80.4,10802086
+United Arab Emirates,9988371,78,Fixed-rate mortgage,16,0.5,563,570,5,Europe,22976934,Europe,Application,577,82.84,10679721
+Australia,9113963,80,Jumbo mortgage,28,1.5,377,520,3,Europe,12522684,Europe,Lead,139,79.25,9987151
+Kuwait,9705316,72,Jumbo mortgage,26,0.5,259,496,5,Asia-Pacific,14647029,Europe,Funding,880,65.22,10882663
+Hong Kong,9925812,82,Adjustable-rate mortgage,22,2.5,565,466,2,Americas,30282021,Asia-Pacific,Lead,929,84.23,11501249
+Hong Kong,9844190,81,Fixed-rate mortgage,6,"",429,700,6,Middle East and Africa,20240313,Americas,Application,241,84.52,10562027
+Netherlands,9854847,72,Home Equity Line of Credit Construction loan,38,2,521,621,3,Asia-Pacific,34349261,Asia-Pacific,Funding,672,74.45,11755555
+Hong Kong,9448620,76,Jumbo mortgage,29,3,378,838,4,Asia-Pacific,10861808,Europe,Application,229,76.43,11665529
+Denmark,9176588,88,Home Equity Line of Credit Construction loan,31,0.5,367,559,4,Middle East and Africa,30737106,Europe,Underwriting,119,81.32,10032755
+Brunei,9367413,79,Jumbo mortgage,16,4,636,354,7,Asia-Pacific,14073244,Europe,Underwriting,761,78.46,11640610
+Denmark,9499604,75,Home Equity Line of Credit Construction loan,23,3.5,445,823,4,Middle East and Africa,21954865,Asia-Pacific,Funding,979,81.28,9811154
+Hong Kong,9143564,82,Adjustable-rate mortgage,40,3,275,844,8,Europe,34109958,Asia-Pacific,Application,956,78.76,11885905
+Darussalam,9166073,90,Fixed-rate mortgage,29,3.5,536,667,6,Asia-Pacific,15845257,Asia-Pacific,Funding,691,88.61,9953849
+Sweden,9320795,88,Adjustable-rate mortgage,10,4,468,326,1,Asia-Pacific,19497963,Europe,Lead,570,83.87,11671306
+Norway,9315153,82,Jumbo mortgage,16,3,511,738,2,Americas,19058954,Asia-Pacific,Lead,260,86.9,11881825
+Darussalam,9019348,87,Adjustable-rate mortgage,7,3.5,372,584,9,Americas,17052494,Americas,Application,278,62.61,10639040
+Darussalam,9398219,82,Adjustable-rate mortgage,14,0.5,390,848,1,Americas,22052682,Europe,Application,332,84.26,11083953
+SAR United States,9997618,87,Jumbo mortgage,7,3,462,467,2,Europe,30908942,Middle East and Africa,Lead,604,70.14,10506001
+United Arab Emirates,9032223,90,Adjustable-rate mortgage,38,0.5,444,332,10,Middle East and Africa,16305561,Americas,Lead,265,76.64,11304009
+"",9640894,83,Fixed-rate mortgage,30,2.5,354,511,9,Middle East and Africa,15940993,Americas,Lead,953,60.15,11452389
+Hong Kong,9571130,81,Adjustable-rate mortgage,12,4,287,708,8,Europe,33406460,Asia-Pacific,Application,610,83.33,10949642
+Austria,9873250,86,Adjustable-rate mortgage,36,"",613,769,5,Americas,12197672,Americas,Funding,604,68.85,9909376
+United Arab Emirates,9124927,80,Jumbo mortgage,36,"",605,465,2,Americas,22727102,Europe,Lead,906,78.85,11723794
+Norway,9963642,75,Fixed-rate mortgage,39,2,510,793,6,Middle East and Africa,31511116,Middle East and Africa,Application,437,64.24,10793515
+Germany,9117822,81,Home Equity Line of Credit Construction loan,15,"",289,366,8,Middle East and Africa,10676324,Asia-Pacific,Funding,438,88.55,10242096
+Qatar,9266319,76,Jumbo mortgage,31,1,555,627,9,Asia-Pacific,20772690,Americas,Underwriting,170,82.93,9763278
+Denmark,9014775,85,Adjustable-rate mortgage,38,"",370,741,4,Asia-Pacific,10825365,Asia-Pacific,Lead,716,86.82,9944340
+Kuwait,9939184,76,Jumbo mortgage,8,1.5,419,693,9,Europe,19642182,Asia-Pacific,Funding,321,77.32,11832727
+Australia,9224593,81,Home Equity Line of Credit Construction loan,22,3,625,682,4,Europe,31919972,Middle East and Africa,Lead,419,83.2,11163708
+Hong Kong,9067306,72,Home Equity Line of Credit Construction loan,22,0.5,616,471,7,Americas,34212289,Europe,Underwriting,275,87.86,10426067
+Switzerland,9127567,81,Jumbo mortgage,40,"",256,486,4,Americas,33052589,Europe,Underwriting,636,62.16,10073035
+San Marino,9142322,89,Home Equity Line of Credit Construction loan,40,3.5,397,848,6,Middle East and Africa,11716347,Asia-Pacific,Lead,204,65.93,11845689
+Kuwait,9526372,81,Adjustable-rate mortgage,15,2.5,594,690,9,Europe,22839396,Europe,Lead,608,63.52,10326506
+Australia,9524663,83,Adjustable-rate mortgage,19,1.5,523,731,2,Europe,18515696,Middle East and Africa,Lead,447,80.44,10766628
+Darussalam,9156145,83,Adjustable-rate mortgage,18,"",367,736,6,Asia-Pacific,11814511,Americas,Funding,254,74.58,10589901
+Australia,9143664,76,Home Equity Line of Credit Construction loan,18,2,463,318,3,Europe,34307466,Asia-Pacific,Underwriting,713,74.06,9806100
+Hong Kong,9647809,82,Adjustable-rate mortgage,35,1,372,536,8,Europe,32584254,Asia-Pacific,Funding,997,63.51,9764977
+San Marino,9276424,84,Fixed-rate mortgage,27,2.5,509,791,3,Middle East and Africa,29893557,Middle East and Africa,Application,520,79.72,10912839
+Brunei,9749442,89,Jumbo mortgage,19,"",501,656,4,Americas,22210985,Americas,Underwriting,525,80.51,10602140
+Australia,9591694,70,Home Equity Line of Credit Construction loan,29,4,279,417,1,Middle East and Africa,33067135,Asia-Pacific,Application,553,60.28,10029736
+SAR United States,9716060,87,Fixed-rate mortgage,24,"",547,512,6,Middle East and Africa,25952829,Middle East and Africa,Funding,519,74.49,11117983
+Singapore,9418850,83,Jumbo mortgage,5,0.5,256,562,5,Europe,28980907,Europe,Underwriting,569,63.3,11605527
+Iceland,9758776,71,Adjustable-rate mortgage,18,3,290,593,3,Middle East and Africa,14763227,Americas,Underwriting,897,87.61,10645991
+"",9371761,86,Fixed-rate mortgage,23,"",627,797,6,Middle East and Africa,10274772,Asia-Pacific,Lead,185,63.61,11560993
+Norway,9064002,77,Jumbo mortgage,12,3,325,799,7,Asia-Pacific,27773519,Asia-Pacific,Underwriting,341,61.91,10455381
+Iceland,9339395,78,Fixed-rate mortgage,5,"",508,560,3,Americas,11851706,Americas,Funding,841,84.65,9880636
+Australia,9301219,82,Adjustable-rate mortgage,17,0.5,417,543,6,Middle East and Africa,28557106,Middle East and Africa,Funding,861,85.28,10594409
+Kuwait,9726474,73,Jumbo mortgage,24,4,341,780,4,Asia-Pacific,12702874,Middle East and Africa,Underwriting,829,72.28,11614304
+Switzerland,9919781,82,Jumbo mortgage,6,1,286,437,5,Europe,24867412,Europe,Underwriting,191,79.27,11665236
+Australia,9208234,73,Home Equity Line of Credit Construction loan,14,2.5,370,635,5,Middle East and Africa,32658235,Europe,Underwriting,438,86.85,11719254
+Darussalam,9971196,82,Adjustable-rate mortgage,5,3.5,482,800,3,Europe,30169396,Europe,Underwriting,214,70.64,10679747
+Austria,9434023,84,Adjustable-rate mortgage,16,4,342,417,7,Europe,20174991,Europe,Lead,828,69.91,9999319
+Sweden,9352984,80,Adjustable-rate mortgage,36,4,513,749,1,Americas,22033142,Middle East and Africa,Underwriting,888,82.26,10927933
+SAR United States,9631308,90,Jumbo mortgage,10,0.5,481,813,6,Americas,14892343,Europe,Lead,621,79.68,10264618
+Iceland,9002401,84,Jumbo mortgage,9,3.5,368,341,2,Europe,29493780,Middle East and Africa,Lead,775,86.01,11854694
+Denmark,9334005,83,Adjustable-rate mortgage,13,1,350,659,2,Middle East and Africa,13931224,Americas,Application,126,84.45,10906644
+Denmark,9274391,82,Home Equity Line of Credit Construction loan,25,1.5,538,501,4,Europe,21767835,Asia-Pacific,Funding,317,87.17,11166043
+Qatar,9094835,86,Fixed-rate mortgage,25,1.5,630,405,2,Asia-Pacific,30257788,Middle East and Africa,Underwriting,136,76.09,9790107
+San Marino,9933686,72,Adjustable-rate mortgage,12,1.5,296,737,8,Europe,28647122,Europe,Funding,318,72.88,9526139
+Denmark,9654557,84,Adjustable-rate mortgage,17,1.5,646,315,7,Americas,23473295,Middle East and Africa,Underwriting,280,62.76,11759886
+Iceland,9627257,73,Jumbo mortgage,18,"",333,745,1,Middle East and Africa,26560069,Europe,Underwriting,794,85.45,9929853
+Switzerland,9766242,90,Home Equity Line of Credit Construction loan,24,0.5,531,348,3,Middle East and Africa,26525529,Europe,Funding,473,64.34,10153760
+Ireland,9781007,86,Fixed-rate mortgage,36,1.5,536,312,4,Europe,22337869,Europe,Lead,391,71.1,10615225
+Qatar,9636383,87,Adjustable-rate mortgage,7,1.5,261,806,10,Europe,25987116,Middle East and Africa,Application,478,67.78,9524559
+Darussalam,9047583,86,Adjustable-rate mortgage,40,3.5,302,681,5,Middle East and Africa,15740183,Middle East and Africa,Lead,657,71.96,10643420
+Luxembourg,9761519,90,Jumbo mortgage,15,4,398,363,9,Asia-Pacific,33434502,Asia-Pacific,Funding,610,72.26,11621338
+Germany,9991963,74,Adjustable-rate mortgage,36,"",627,558,6,Asia-Pacific,23379153,Americas,Lead,611,64.23,9957255
+Iceland,9142982,72,Fixed-rate mortgage,23,2,309,516,6,Americas,16205076,Europe,Application,160,86.38,10051241
+Hong Kong,9977892,71,Jumbo mortgage,40,1,258,812,9,Europe,21041482,Middle East and Africa,Lead,131,68.1,9887382
+Hong Kong,9481181,83,Adjustable-rate mortgage,5,2.5,633,302,2,Europe,25892749,Asia-Pacific,Application,403,77.59,10754947
+Norway,9460119,86,Adjustable-rate mortgage,27,2.5,646,600,3,Middle East and Africa,20632301,Asia-Pacific,Underwriting,923,71.93,10362566
+Qatar,9334366,89,Fixed-rate mortgage,15,1,283,449,8,Asia-Pacific,17150710,Europe,Funding,486,87.64,11635458
+Ireland,9203782,78,Adjustable-rate mortgage,31,3,574,705,3,Americas,13338572,Americas,Application,420,75.25,10021164
+Ireland,9870639,72,Home Equity Line of Credit Construction loan,9,1.5,421,383,7,Europe,18537130,Europe,Funding,924,69.13,10109334
+Norway,9675460,87,Home Equity Line of Credit Construction loan,21,"",568,823,2,Europe,31103365,Middle East and Africa,Application,765,66.68,10614709
+Luxembourg,9687154,72,Adjustable-rate mortgage,40,3,542,637,3,Middle East and Africa,14978987,Europe,Application,922,72.07,9503429
+Darussalam,9888233,72,Fixed-rate mortgage,6,1.5,415,632,5,Asia-Pacific,32725532,Europe,Application,560,67.7,10727096
+Luxembourg,9025838,72,Jumbo mortgage,37,3.5,385,488,5,Americas,23833501,Europe,Lead,120,74.27,9545124
+Switzerland,9206641,77,Adjustable-rate mortgage,28,3.5,457,498,9,Asia-Pacific,25208243,Asia-Pacific,Application,666,73.62,11485060
+Qatar,9188875,75,Jumbo mortgage,21,0.5,350,538,5,Europe,19244204,Europe,Underwriting,707,74.49,10385290
+Singapore,9677344,86,Adjustable-rate mortgage,27,4,277,336,10,Americas,25047275,Middle East and Africa,Funding,918,89.61,11575512
+"",9062337,73,Adjustable-rate mortgage,25,0.5,551,327,9,Asia-Pacific,15081371,Middle East and Africa,Underwriting,473,79.16,10211268
+Qatar,9797264,85,Adjustable-rate mortgage,28,0.5,345,782,6,Asia-Pacific,17948682,Europe,Underwriting,475,84.73,10608612
+Kuwait,9632488,86,Home Equity Line of Credit Construction loan,6,0.5,606,416,3,Middle East and Africa,23840731,Americas,Underwriting,413,61.76,10805385
+Darussalam,9364789,75,Home Equity Line of Credit Construction loan,19,1,344,331,3,Europe,12982826,Europe,Lead,518,76.64,11339733
+Switzerland,9838314,83,Jumbo mortgage,14,3.5,445,765,8,Middle East and Africa,11331081,Asia-Pacific,Underwriting,224,87.1,11994637
+Kuwait,9137294,80,Home Equity Line of Credit Construction loan,7,1,295,823,7,Europe,13035333,Americas,Underwriting,237,81.17,10122467
+Netherlands,9627475,73,Jumbo mortgage,7,2.5,587,568,1,Americas,10425052,Asia-Pacific,Funding,782,67.55,9840851
+Denmark,9052349,78,Adjustable-rate mortgage,27,4,409,809,8,Asia-Pacific,20781085,Europe,Funding,708,72.5,11327627
+Austria,9461377,83,Home Equity Line of Credit Construction loan,23,4,602,419,3,Asia-Pacific,14167292,Americas,Funding,513,82.76,11195221
+Iceland,9063041,87,Fixed-rate mortgage,17,0.5,353,717,1,Asia-Pacific,20845609,Asia-Pacific,Lead,617,72.9,11217452
+Ireland,9595557,70,Home Equity Line of Credit Construction loan,17,4,379,627,7,Americas,17944585,Europe,Lead,294,70.48,10712611
+Kuwait,9045949,74,Home Equity Line of Credit Construction loan,38,4,449,361,10,Asia-Pacific,25679384,Europe,Funding,279,60.74,11474830
+Denmark,9537139,73,Adjustable-rate mortgage,23,3.5,625,688,5,Middle East and Africa,28183504,Americas,Application,774,67.36,10040512
+Qatar,9200464,71,Adjustable-rate mortgage,12,4,459,306,7,Europe,21052767,Middle East and Africa,Application,402,74.55,11541552
+Norway,9068020,88,Fixed-rate mortgage,35,3,333,569,1,Middle East and Africa,28543767,Europe,Funding,458,73.21,10140603
+Singapore,9279564,85,Jumbo mortgage,29,3.5,337,492,5,Asia-Pacific,27390648,Middle East and Africa,Underwriting,184,81.38,10753525
+Hong Kong,9360045,82,Adjustable-rate mortgage,40,1.5,468,444,8,Middle East and Africa,10651864,Middle East and Africa,Underwriting,376,81.0,11662416
+Norway,9497917,77,Jumbo mortgage,22,1,376,351,10,Asia-Pacific,29398573,Asia-Pacific,Lead,772,85.83,10420734
+Netherlands,9163614,90,Jumbo mortgage,14,1.5,564,631,7,Americas,16204744,Middle East and Africa,Lead,685,63.75,10212345
+Sweden,9687995,87,Home Equity Line of Credit Construction loan,35,1.5,363,479,1,Europe,32228840,Americas,Underwriting,862,86.55,11322712
+Qatar,9474257,79,Adjustable-rate mortgage,22,2.5,420,371,9,Europe,13345553,Middle East and Africa,Funding,546,78.86,11007134
+SAR United States,9110319,78,Home Equity Line of Credit Construction loan,10,3,485,331,2,Europe,33282398,Americas,Underwriting,974,70.38,10164983
+Switzerland,9508802,77,Fixed-rate mortgage,28,0.5,563,755,7,Americas,26505365,Europe,Funding,689,82.07,10507584
+Qatar,9890178,77,Jumbo mortgage,33,0.5,562,336,4,Asia-Pacific,24329531,Middle East and Africa,Lead,131,81.89,10394219
+Singapore,9280994,87,Adjustable-rate mortgage,35,4,614,607,3,Americas,30833858,Europe,Underwriting,476,65.0,9655001
+Germany,9268857,89,Jumbo mortgage,28,1,508,784,2,Asia-Pacific,31158665,Americas,Funding,411,62.48,11457389
+Sweden,9228125,88,Jumbo mortgage,39,2.5,440,406,3,Middle East and Africa,21235193,Middle East and Africa,Underwriting,759,65.04,9759011
+Luxembourg,9866204,79,Adjustable-rate mortgage,32,2.5,640,429,9,Europe,10599450,Europe,Lead,932,89.34,11199001
+Sweden,9690551,74,Fixed-rate mortgage,13,1.5,466,461,10,Americas,28922233,Middle East and Africa,Underwriting,936,66.47,11225612
+Singapore,9058096,83,Jumbo mortgage,29,3.5,562,701,5,Asia-Pacific,15375134,Europe,Application,511,64.25,10352146
+Sweden,9923158,78,Jumbo mortgage,10,4,439,846,2,Middle East and Africa,30979038,Asia-Pacific,Application,969,60.92,10633994
+Luxembourg,9303237,77,Jumbo mortgage,12,2,594,639,9,Europe,10522892,Americas,Funding,642,70.91,10614948
+Switzerland,9619947,72,Jumbo mortgage,34,3.5,518,378,3,Asia-Pacific,24309169,Asia-Pacific,Underwriting,574,75.69,10334675
+San Marino,9234141,82,Home Equity Line of Credit Construction loan,31,3.5,540,691,10,Middle East and Africa,21779025,Americas,Underwriting,168,61.64,11178545
+Qatar,9016320,80,Jumbo mortgage,7,1.5,361,540,8,Middle East and Africa,15329508,Asia-Pacific,Funding,846,87.05,10714530
+Qatar,9123350,72,Adjustable-rate mortgage,13,2,482,373,3,Asia-Pacific,20405039,Middle East and Africa,Underwriting,398,74.66,11494731
+Australia,9089241,87,Fixed-rate mortgage,5,1,269,663,2,Europe,17189888,Americas,Underwriting,429,68.6,10808665
+United Arab Emirates,9895159,89,Adjustable-rate mortgage,31,1.5,330,318,7,Europe,21160336,Europe,Lead,939,83.93,10475960
+Hong Kong,9849143,72,Adjustable-rate mortgage,12,3,335,492,1,Middle East and Africa,30057638,Americas,Funding,795,65.1,9597924
+Macao SAR,9128255,79,Jumbo mortgage,32,2.5,256,523,10,Middle East and Africa,23176022,Americas,Funding,807,69.22,11437687
+Qatar,9288367,84,Fixed-rate mortgage,28,"",551,525,1,Asia-Pacific,24888017,Americas,Underwriting,570,78.36,11600706
+Singapore,9673491,75,Adjustable-rate mortgage,29,2,553,463,5,Europe,19044890,Europe,Funding,812,81.49,11725064
+"",9088087,88,Fixed-rate mortgage,23,3,539,458,5,Americas,10423448,Middle East and Africa,Funding,258,65.62,9774321
+Ireland,9781273,88,Adjustable-rate mortgage,8,2.5,526,385,6,Europe,29900737,Europe,Lead,574,69.96,10912759
+"",9582330,78,Home Equity Line of Credit Construction loan,8,0.5,431,725,8,Americas,17683054,Middle East and Africa,Funding,774,73.85,10736274
+SAR United States,9734231,74,Home Equity Line of Credit Construction loan,18,3,362,612,7,Middle East and Africa,15332185,Asia-Pacific,Lead,521,78.53,10754971
+Kuwait,9614773,72,Adjustable-rate mortgage,20,2.5,462,359,6,Europe,30929992,Americas,Underwriting,220,81.56,9612991
+"",9945628,74,Jumbo mortgage,15,1,254,415,4,Europe,27792366,Americas,Application,175,82.53,10639514
+Macao SAR,9947792,82,Adjustable-rate mortgage,8,3,456,788,8,Asia-Pacific,24277977,Middle East and Africa,Funding,829,83.42,11451279
+Kuwait,9313929,88,Fixed-rate mortgage,18,3.5,430,410,8,Americas,16188176,Asia-Pacific,Underwriting,977,87.6,11600133
+Luxembourg,9314461,71,Home Equity Line of Credit Construction loan,7,3,258,803,1,Middle East and Africa,33107789,Americas,Funding,106,79.77,9535939
+Singapore,9186619,77,Fixed-rate mortgage,23,0.5,412,372,5,Asia-Pacific,25169808,Americas,Underwriting,212,62.04,11971508
+San Marino,9638486,86,Adjustable-rate mortgage,27,2.5,496,619,1,Americas,31085608,Asia-Pacific,Funding,918,81.86,10552633
+Iceland,9905950,88,Adjustable-rate mortgage,5,1.5,485,454,5,Asia-Pacific,20131175,Europe,Lead,368,77.47,11030846
+Singapore,9429946,72,Jumbo mortgage,22,"",319,792,5,Middle East and Africa,11265315,Europe,Application,420,87.41,10548333
+Germany,9882301,79,Home Equity Line of Credit Construction loan,35,2,315,619,3,Asia-Pacific,29413770,Americas,Lead,622,80.51,11812590
+Netherlands,9748361,71,Adjustable-rate mortgage,23,3,465,634,10,Americas,23113838,Asia-Pacific,Lead,154,77.05,11625605
+Germany,9522779,80,Home Equity Line of Credit Construction loan,13,3.5,575,615,2,Middle East and Africa,16571663,Asia-Pacific,Funding,701,87.24,10881139
+United Arab Emirates,9662483,79,Home Equity Line of Credit Construction loan,5,1,482,592,10,Europe,26158373,Middle East and Africa,Lead,519,82.93,11037224
+Kuwait,9748979,72,Fixed-rate mortgage,32,3.5,297,406,6,Asia-Pacific,10763527,Asia-Pacific,Funding,663,76.03,10529322
+Macao SAR,9516727,85,Home Equity Line of Credit Construction loan,26,1,325,322,8,Americas,12627795,Europe,Funding,153,88.5,11901497
+Luxembourg,9285444,79,Adjustable-rate mortgage,25,3.5,316,428,4,Middle East and Africa,26954285,Middle East and Africa,Application,574,63.43,9986088
+Singapore,9424154,73,Jumbo mortgage,36,2,642,400,2,Americas,27325756,Europe,Lead,757,88.78,11929468
+Qatar,9142478,81,Adjustable-rate mortgage,11,2.5,649,500,8,Asia-Pacific,13556307,Americas,Lead,721,63.64,9515220
+Hong Kong,9907452,73,Home Equity Line of Credit Construction loan,16,"",273,798,10,Middle East and Africa,27272930,Europe,Funding,803,67.61,9956680
+Darussalam,9385750,86,Adjustable-rate mortgage,40,0.5,335,603,10,Americas,24532963,Americas,Application,287,84.96,9605851
+Hong Kong,9166204,80,Adjustable-rate mortgage,40,1,383,361,8,Europe,32166385,Europe,Underwriting,323,80.83,10214272
+San Marino,9224466,84,Jumbo mortgage,33,2.5,425,790,5,Asia-Pacific,19790240,Americas,Underwriting,885,61.8,11692942
+SAR United States,9022824,82,Adjustable-rate mortgage,25,2,561,365,4,Middle East and Africa,17671036,Europe,Funding,230,82.09,10035971
+Norway,9826201,75,Fixed-rate mortgage,20,3.5,479,758,6,Americas,19768604,Americas,Funding,614,86.2,11669075
+Macao SAR,9206219,77,Jumbo mortgage,17,4,285,425,3,Europe,30901412,Middle East and Africa,Funding,237,71.28,11368231
+Iceland,9230477,72,Home Equity Line of Credit Construction loan,29,0.5,437,348,4,Americas,14287723,Europe,Lead,736,78.46,11738785
+Germany,9095655,72,Fixed-rate mortgage,26,"",445,527,4,Middle East and Africa,17352151,Americas,Underwriting,832,73.28,10642723
+Iceland,9395707,72,Fixed-rate mortgage,13,1,311,573,6,Americas,17863672,Americas,Underwriting,508,65.65,9935960
+Ireland,9992745,75,Jumbo mortgage,36,2.5,428,648,8,Europe,30711127,Middle East and Africa,Underwriting,107,71.66,10500129
+"",9205608,76,Adjustable-rate mortgage,31,0.5,283,773,1,Middle East and Africa,10079833,Asia-Pacific,Funding,105,74.27,10320109
+Sweden,9033679,80,Adjustable-rate mortgage,29,1,596,333,4,Europe,21352100,Middle East and Africa,Funding,195,88.92,11532645
+Macao SAR,9697928,81,Fixed-rate mortgage,7,3,647,632,6,Europe,15586523,Asia-Pacific,Funding,363,83.88,11356745
+Luxembourg,9247432,83,Fixed-rate mortgage,39,1.5,518,797,7,Asia-Pacific,17057317,Asia-Pacific,Lead,237,61.86,11593444
+Iceland,9174576,87,Jumbo mortgage,11,1.5,452,375,5,Europe,15727697,Europe,Application,975,78.15,10742331
+Germany,9646078,84,Home Equity Line of Credit Construction loan,23,2.5,483,615,5,Americas,18310155,Asia-Pacific,Application,994,87.74,11260768
+Germany,9836545,74,Adjustable-rate mortgage,21,1.5,634,414,9,Americas,31381786,Americas,Underwriting,802,88.8,11484619
+San Marino,9848027,81,Home Equity Line of Credit Construction loan,26,1.5,365,463,6,Americas,33320368,Asia-Pacific,Underwriting,557,79.8,11762711
+SAR United States,9787952,75,Fixed-rate mortgage,29,"",600,560,6,Asia-Pacific,16896270,Asia-Pacific,Lead,669,63.52,10959189
+San Marino,9883329,84,Fixed-rate mortgage,9,2,419,747,9,Europe,27360390,Asia-Pacific,Application,372,68.51,11715064
+Iceland,9910094,73,Fixed-rate mortgage,21,3,396,496,7,Europe,34227686,Americas,Application,969,80.8,10809469
+Sweden,9354322,78,Adjustable-rate mortgage,27,3,259,743,5,Americas,25457007,Middle East and Africa,Underwriting,930,69.97,10461595
+Hong Kong,9553244,82,Adjustable-rate mortgage,35,1.5,325,536,2,Asia-Pacific,14869942,Asia-Pacific,Funding,417,79.99,11592819
+Sweden,9067635,89,Jumbo mortgage,5,2,604,659,7,Asia-Pacific,16328183,Americas,Underwriting,910,71.01,10459413
+Darussalam,9184174,79,Home Equity Line of Credit Construction loan,12,2.5,345,426,7,Americas,20184714,Europe,Underwriting,459,74.96,9649874
+Germany,9395871,86,Jumbo mortgage,37,3.5,502,609,10,Asia-Pacific,33846707,Americas,Lead,838,79.89,10852194
+SAR United States,9850164,87,Fixed-rate mortgage,15,1.5,262,800,7,Asia-Pacific,22811282,Europe,Underwriting,325,77.86,9997902
+SAR United States,9733861,85,Fixed-rate mortgage,11,1,250,516,8,Middle East and Africa,13092838,Europe,Underwriting,598,88.86,11084283
+Hong Kong,9156250,86,Home Equity Line of Credit Construction loan,13,2,569,367,10,Europe,28289674,Europe,Lead,662,80.29,11251269
+Netherlands,9450001,90,Fixed-rate mortgage,5,1,260,409,2,Asia-Pacific,10460146,Europe,Funding,974,88.59,11355271
+Norway,9257705,75,Home Equity Line of Credit Construction loan,25,2.5,515,594,9,Europe,18647549,Middle East and Africa,Funding,633,75.93,9959925
+Macao SAR,9875821,76,Home Equity Line of Credit Construction loan,16,2.5,526,509,7,Europe,25503551,Americas,Application,225,66.61,10397900
+Australia,9386290,78,Fixed-rate mortgage,13,1.5,525,318,7,Asia-Pacific,23912028,Asia-Pacific,Application,857,83.89,11037402
+Singapore,9303611,72,Home Equity Line of Credit Construction loan,14,2.5,396,732,7,Europe,10912471,Europe,Application,802,70.37,10986811
+Kuwait,9583953,82,Jumbo mortgage,20,3,268,516,6,Middle East and Africa,23845937,Americas,Application,430,65.24,11810857
+Switzerland,9759670,77,Jumbo mortgage,21,4,410,676,5,Europe,12498089,Asia-Pacific,Lead,641,79.33,11660790
+Norway,9831558,87,Home Equity Line of Credit Construction loan,30,2,287,610,1,Europe,30990077,Americas,Lead,964,86.58,11431192
+Qatar,9013500,75,Fixed-rate mortgage,24,3.5,290,789,8,Europe,12175245,Europe,Funding,907,67.53,10276538
+Australia,9173312,71,Jumbo mortgage,26,4,302,838,4,Americas,11110242,Middle East and Africa,Lead,354,78.41,9785075
+SAR United States,9311317,84,Jumbo mortgage,20,4,458,580,6,Americas,20411153,Asia-Pacific,Funding,562,77.12,11425112
+Ireland,9249270,79,Fixed-rate mortgage,11,4,262,712,2,Americas,23967934,Asia-Pacific,Lead,741,65.2,10204453
+Darussalam,9923007,83,Adjustable-rate mortgage,30,"",602,510,1,Europe,12091210,Middle East and Africa,Lead,606,72.61,11759809
+Qatar,9592516,87,Adjustable-rate mortgage,24,1,441,604,3,Asia-Pacific,28999140,Americas,Funding,327,64.78,10157885
+Germany,9692179,74,Fixed-rate mortgage,5,2.5,548,599,2,Americas,27072871,Europe,Funding,727,66.21,9629848
+"",9286158,90,Adjustable-rate mortgage,27,1,454,707,3,Asia-Pacific,20832719,Europe,Underwriting,586,78.79,11227192
+Qatar,9944422,81,Adjustable-rate mortgage,24,1.5,564,762,10,Europe,33411018,Middle East and Africa,Funding,421,83.48,9540018
+San Marino,9136398,90,Home Equity Line of Credit Construction loan,18,2,531,646,8,Middle East and Africa,33319069,Europe,Underwriting,171,63.32,10147211
+"",9894139,72,Jumbo mortgage,13,2,510,355,9,Americas,10484713,Asia-Pacific,Funding,802,72.87,11011715
+Singapore,9291170,80,Home Equity Line of Credit Construction loan,38,1.5,409,473,2,Asia-Pacific,26568891,Middle East and Africa,Funding,437,62.04,11941169
+Iceland,9747813,70,Adjustable-rate mortgage,29,1.5,547,727,8,Asia-Pacific,29402626,Asia-Pacific,Funding,149,85.92,9788089
+Germany,9163278,84,Adjustable-rate mortgage,6,"",321,563,9,Europe,11051639,Europe,Application,673,88.49,11709022
+Austria,9153474,79,Home Equity Line of Credit Construction loan,11,4,621,513,3,Middle East and Africa,11560874,Middle East and Africa,Application,309,85.83,10865316
+Norway,9504995,74,Home Equity Line of Credit Construction loan,25,3.5,555,322,2,Middle East and Africa,20427161,Asia-Pacific,Underwriting,265,64.9,10117370
+Sweden,9212256,70,Home Equity Line of Credit Construction loan,17,4,347,718,4,Europe,27196329,Europe,Lead,572,83.76,9631533
+Sweden,9395388,86,Adjustable-rate mortgage,9,2,356,546,10,Europe,18490383,Asia-Pacific,Underwriting,183,61.53,10872601
+Kuwait,9756177,70,Home Equity Line of Credit Construction loan,40,"",531,464,7,Middle East and Africa,24418326,Europe,Underwriting,265,71.37,9716625
+San Marino,9529895,75,Fixed-rate mortgage,21,2.5,645,521,3,Americas,11865796,Middle East and Africa,Underwriting,115,69.49,9593666
+Macao SAR,9132154,80,Adjustable-rate mortgage,10,3,298,365,10,Asia-Pacific,27645786,Europe,Underwriting,819,76.27,9745786
+SAR United States,9854164,88,Adjustable-rate mortgage,36,0.5,410,515,10,Middle East and Africa,21759974,Asia-Pacific,Funding,635,79.81,11655058
+San Marino,9699951,88,Home Equity Line of Credit Construction loan,7,2,434,723,3,Americas,26765832,Middle East and Africa,Application,843,88.8,10158716
+Sweden,9209351,78,Fixed-rate mortgage,18,3.5,549,596,1,Middle East and Africa,23918492,Americas,Funding,686,78.13,10167600
+United Arab Emirates,9781402,73,Adjustable-rate mortgage,26,2.5,320,342,7,Europe,19894004,Americas,Underwriting,663,61.64,10637707
+Macao SAR,9323415,80,Home Equity Line of Credit Construction loan,20,3,529,426,1,Middle East and Africa,17569998,Europe,Lead,276,87.5,9654591
+Kuwait,9616668,85,Adjustable-rate mortgage,22,3.5,608,632,5,Americas,27790475,Europe,Application,501,61.6,11492879
+Norway,9556446,76,Jumbo mortgage,12,1.5,262,409,10,Asia-Pacific,31140166,Middle East and Africa,Funding,473,70.62,11088980
+Hong Kong,9587618,73,Fixed-rate mortgage,10,2.5,559,759,2,Middle East and Africa,25919750,Middle East and Africa,Funding,392,79.78,10670760
+Hong Kong,9059216,89,Fixed-rate mortgage,26,3.5,496,709,2,Middle East and Africa,24571603,Europe,Underwriting,640,89.9,10302437
+Kuwait,9637637,75,Adjustable-rate mortgage,31,4,588,844,6,Americas,22716821,Europe,Lead,846,75.01,11927817
+SAR United States,9760278,83,Home Equity Line of Credit Construction loan,30,3,559,645,3,Middle East and Africa,30202210,Europe,Underwriting,290,63.96,10197799
+Qatar,9127422,85,Home Equity Line of Credit Construction loan,6,3.5,488,537,5,Europe,25807089,Middle East and Africa,Application,139,66.01,10245978
+Macao SAR,9394981,89,Jumbo mortgage,25,3,470,600,9,Middle East and Africa,18992422,Europe,Funding,651,66.68,11296731
+Switzerland,9933144,84,Jumbo mortgage,9,3,498,667,2,Europe,13236220,Asia-Pacific,Funding,580,71.03,10787182
+Norway,9594418,89,Home Equity Line of Credit Construction loan,8,3.5,640,815,9,Asia-Pacific,24706287,Middle East and Africa,Lead,420,66.38,10726119
+Darussalam,9399654,76,Jumbo mortgage,8,2,540,609,7,Asia-Pacific,11934016,Europe,Application,424,74.4,9572057
+Netherlands,9244833,76,Home Equity Line of Credit Construction loan,23,"",574,822,3,Middle East and Africa,20331955,Asia-Pacific,Lead,740,88.07,11263285
+Austria,9865671,82,Fixed-rate mortgage,20,"",501,718,7,Americas,32803771,Americas,Underwriting,235,78.74,11183851
+"",9586963,70,Home Equity Line of Credit Construction loan,38,1.5,267,499,8,Europe,23723836,Middle East and Africa,Funding,536,70.16,10560807
+Sweden,9378640,89,Adjustable-rate mortgage,25,3.5,280,300,1,Americas,28904177,Europe,Application,120,83.66,10297334
+Austria,9386409,74,Jumbo mortgage,32,4,289,463,9,Middle East and Africa,11034682,Europe,Lead,926,81.92,9905494
+Macao SAR,9905334,79,Adjustable-rate mortgage,18,3,318,346,8,Asia-Pacific,29764955,Europe,Funding,372,76.93,9612760
+Singapore,9447388,83,Home Equity Line of Credit Construction loan,18,4,433,775,6,Americas,23373468,Asia-Pacific,Funding,147,83.09,9963577
+Singapore,9182827,72,Home Equity Line of Credit Construction loan,13,3.5,264,736,3,Asia-Pacific,11883290,Europe,Application,746,78.22,10671241
+SAR United States,9505887,74,Fixed-rate mortgage,34,1,284,714,3,Europe,34436725,Americas,Funding,813,77.02,11947600
+SAR United States,9465061,81,Fixed-rate mortgage,32,3,462,438,1,Europe,10129216,Americas,Underwriting,539,77.48,10563939
+Germany,9024845,85,Jumbo mortgage,22,2.5,620,748,8,Asia-Pacific,10850690,Middle East and Africa,Lead,425,64.77,9608297
+Brunei,9528978,82,Fixed-rate mortgage,28,2,370,754,5,Middle East and Africa,17026027,Middle East and Africa,Underwriting,698,77.79,10114576
+Ireland,9654578,74,Jumbo mortgage,24,1,405,844,5,Americas,21657707,Asia-Pacific,Underwriting,192,80.82,11677356
+Germany,9933374,73,Fixed-rate mortgage,26,3,272,777,7,Americas,14625540,Middle East and Africa,Application,376,65.41,9613647
+Australia,9130955,72,Home Equity Line of Credit Construction loan,24,1,335,600,10,Americas,11761190,Middle East and Africa,Application,263,76.1,9894330
+Hong Kong,9188143,80,Adjustable-rate mortgage,34,1,495,456,3,Middle East and Africa,18672973,Middle East and Africa,Funding,992,83.57,10326028
+Luxembourg,9608151,84,Jumbo mortgage,33,4,308,356,10,Americas,21655290,Middle East and Africa,Application,185,75.06,9619247
+SAR United States,9604890,72,Home Equity Line of Credit Construction loan,14,2,344,389,5,Middle East and Africa,29569720,Asia-Pacific,Application,258,66.27,11869549
+United Arab Emirates,9360624,75,Adjustable-rate mortgage,39,1,338,472,1,Middle East and Africa,10976420,Americas,Lead,904,84.23,10782615
+Australia,9815609,75,Fixed-rate mortgage,38,"",385,774,8,Europe,17369395,Americas,Funding,719,72.65,9985487
+Australia,9546984,70,Fixed-rate mortgage,37,3,646,836,4,Americas,18709610,Europe,Application,864,85.86,9628003
+Darussalam,9792693,90,Jumbo mortgage,5,2,557,439,1,Americas,15221157,Europe,Underwriting,932,76.68,10561148
+Macao SAR,9819503,78,Home Equity Line of Credit Construction loan,11,1,319,759,10,Asia-Pacific,17211050,Americas,Application,371,72.62,9716597
+Ireland,9495167,76,Fixed-rate mortgage,36,1,267,837,1,Europe,27289074,Middle East and Africa,Application,815,73.91,11586905
+Germany,9430786,76,Fixed-rate mortgage,38,2,445,675,5,Europe,34814656,Middle East and Africa,Application,145,68.69,10159168
+Kuwait,9291952,79,Jumbo mortgage,30,3,475,531,10,Europe,15175975,Europe,Lead,203,84.26,10673542
+Macao SAR,9750224,72,Home Equity Line of Credit Construction loan,40,3.5,535,501,10,Americas,20953266,Middle East and Africa,Application,493,63.35,9643780
+Ireland,9737659,90,Fixed-rate mortgage,27,4,638,679,1,Americas,29562020,Americas,Application,570,73.82,9660909
+United Arab Emirates,9861098,79,Home Equity Line of Credit Construction loan,23,3.5,332,760,8,Asia-Pacific,18762977,Middle East and Africa,Funding,881,75.04,10252596
+Australia,9802790,72,Home Equity Line of Credit Construction loan,24,3,478,574,9,Asia-Pacific,20358762,Asia-Pacific,Funding,288,70.47,9537027
+Norway,9789256,90,Jumbo mortgage,26,1.5,432,640,3,Americas,32317070,Middle East and Africa,Funding,891,86.61,10097471
+Netherlands,9362876,80,Home Equity Line of Credit Construction loan,22,0.5,397,658,10,Asia-Pacific,30196362,Americas,Application,679,83.3,10701101
+Brunei,9693665,71,Adjustable-rate mortgage,28,1,489,800,2,Europe,28527473,Americas,Application,821,64.99,10134999
+Germany,9622846,79,Fixed-rate mortgage,32,3,362,353,6,Middle East and Africa,15881587,Americas,Application,971,79.04,10065285
+Netherlands,9564561,84,Home Equity Line of Credit Construction loan,13,0.5,546,661,3,Asia-Pacific,10176468,Americas,Funding,106,84.46,11063115
+Switzerland,9602545,77,Jumbo mortgage,5,3,465,775,9,Middle East and Africa,33023478,Middle East and Africa,Application,895,65.27,11348620
+Germany,9525144,88,Fixed-rate mortgage,22,3,328,387,8,Europe,32302003,Middle East and Africa,Underwriting,376,71.45,11157726
+Denmark,9161086,80,Fixed-rate mortgage,11,0.5,606,490,4,Americas,19164112,Middle East and Africa,Underwriting,896,82.25,10391830
+Switzerland,9674110,78,Home Equity Line of Credit Construction loan,7,"",547,656,9,Americas,15334920,Americas,Underwriting,747,60.94,11776115
+Hong Kong,9298384,74,Jumbo mortgage,18,1.5,389,521,6,Middle East and Africa,22952740,Asia-Pacific,Funding,453,87.09,10980764
+United Arab Emirates,9173214,71,Adjustable-rate mortgage,39,3.5,428,595,1,Middle East and Africa,17756298,Americas,Funding,468,85.95,10793142
+Norway,9849882,74,Jumbo mortgage,6,4,512,682,6,Americas,24746900,Americas,Funding,669,72.78,9750674
+Denmark,9710765,90,Adjustable-rate mortgage,12,"",307,758,3,Asia-Pacific,25743502,Middle East and Africa,Application,198,71.81,9629725
+Singapore,9455966,72,Adjustable-rate mortgage,31,3.5,360,364,10,Middle East and Africa,28861841,Americas,Lead,542,88.44,10698705
+Qatar,9598080,70,Jumbo mortgage,17,1.5,607,735,3,Asia-Pacific,11053181,Americas,Underwriting,107,68.27,11667710
+Switzerland,9724214,83,Home Equity Line of Credit Construction loan,5,4,391,846,4,Middle East and Africa,15245865,Asia-Pacific,Underwriting,812,71.55,9751282
+Netherlands,9991859,80,Jumbo mortgage,30,2,556,341,3,Middle East and Africa,20132682,Americas,Lead,940,70.5,11041289
+Ireland,9867723,84,Fixed-rate mortgage,22,0.5,453,678,1,Europe,30384254,Middle East and Africa,Underwriting,381,85.92,9726619
+United Arab Emirates,9666875,78,Jumbo mortgage,7,0.5,537,593,9,Europe,30085935,Asia-Pacific,Application,704,61.45,9566864
+Norway,9215248,72,Adjustable-rate mortgage,26,1,599,656,5,Middle East and Africa,12454968,Asia-Pacific,Application,607,63.55,10385337
+Qatar,9006597,85,Home Equity Line of Credit Construction loan,13,4,575,450,10,Europe,15905599,Americas,Lead,713,80.94,10842172
+Austria,9459861,70,Adjustable-rate mortgage,30,1,603,752,4,Americas,17762090,Americas,Funding,132,70.06,9978347
+Austria,9713065,79,Home Equity Line of Credit Construction loan,15,2.5,607,590,3,Asia-Pacific,11177471,Europe,Underwriting,661,82.98,11674846
+Singapore,9775268,78,Fixed-rate mortgage,29,2,552,775,9,Europe,15514005,Middle East and Africa,Funding,161,89.23,10415034
+Germany,9947266,70,Adjustable-rate mortgage,11,1,369,765,10,Americas,34906914,Middle East and Africa,Underwriting,539,68.08,10228211
+Austria,9127673,88,Home Equity Line of Credit Construction loan,12,0.5,443,658,8,Americas,30947087,Asia-Pacific,Funding,585,81.19,9767976
+Kuwait,9127636,89,Jumbo mortgage,40,"",426,439,9,Americas,14741533,Americas,Lead,193,66.65,11558344
+Austria,9074472,88,Jumbo mortgage,6,0.5,388,389,6,Middle East and Africa,14841830,Europe,Lead,495,62.47,11449872
+Norway,9088938,74,Fixed-rate mortgage,25,1,345,366,3,Asia-Pacific,21343605,Americas,Funding,291,85.49,10649690
+San Marino,9109256,84,Fixed-rate mortgage,14,3.5,418,469,2,Middle East and Africa,28819569,Europe,Underwriting,415,85.33,10034147
+Luxembourg,9215680,84,Jumbo mortgage,18,1.5,516,638,5,Middle East and Africa,15925713,Asia-Pacific,Underwriting,849,76.43,11113151
+Macao SAR,9311861,75,Adjustable-rate mortgage,34,0.5,479,790,6,Americas,28613299,Europe,Lead,532,83.35,11499092
+Kuwait,9132951,78,Jumbo mortgage,33,3,394,583,7,Americas,30604792,Americas,Funding,772,77.5,11722209
+Germany,9395421,76,Home Equity Line of Credit Construction loan,39,"",285,311,3,Europe,18552619,Europe,Application,740,76.45,11981386
+Australia,9512491,75,Home Equity Line of Credit Construction loan,23,3.5,510,653,7,Asia-Pacific,18407806,Asia-Pacific,Lead,452,75.61,10928060
+Switzerland,9277102,80,Adjustable-rate mortgage,14,3.5,334,828,7,Middle East and Africa,13039279,Americas,Funding,933,83.88,11922767
+Luxembourg,9156710,90,Jumbo mortgage,23,2,302,504,8,Europe,10099326,Asia-Pacific,Lead,152,75.91,11415779
+Austria,9101674,80,Jumbo mortgage,8,2.5,585,567,3,Asia-Pacific,20884494,Americas,Application,886,64.03,11134909
+Australia,9542518,77,Adjustable-rate mortgage,19,0.5,289,407,1,Americas,32834544,Middle East and Africa,Funding,404,80.25,10943301
+SAR United States,9426298,90,Fixed-rate mortgage,29,1.5,641,526,3,Asia-Pacific,20608698,Americas,Funding,261,87.34,11354459
+Austria,9170733,75,Jumbo mortgage,38,1,328,725,2,Americas,18324806,Americas,Underwriting,692,80.99,11660436
+Ireland,9446573,72,Adjustable-rate mortgage,13,0.5,320,357,2,Americas,30506133,Americas,Funding,447,72.05,9518193
+United Arab Emirates,9496105,86,Adjustable-rate mortgage,33,3.5,574,388,9,Asia-Pacific,10500298,Europe,Lead,640,60.61,10472599
+Darussalam,9525363,85,Jumbo mortgage,9,2,536,640,3,Asia-Pacific,21776289,Europe,Application,558,70.59,10497123
+Luxembourg,9000942,72,Adjustable-rate mortgage,26,2,641,473,8,Asia-Pacific,13604049,Middle East and Africa,Funding,162,60.95,11233251
+Germany,9446229,90,Adjustable-rate mortgage,20,"",262,373,5,Europe,19488802,Americas,Lead,988,70.52,9986047
+United Arab Emirates,9070485,78,Adjustable-rate mortgage,13,1,365,542,2,Asia-Pacific,15050214,Americas,Funding,808,82.14,10897903
+Ireland,9140303,81,Adjustable-rate mortgage,30,1.5,297,620,6,Americas,19510647,Asia-Pacific,Lead,845,69.59,11754436
+Norway,9747439,82,Home Equity Line of Credit Construction loan,10,0.5,302,549,2,Middle East and Africa,17359986,Americas,Funding,626,84.49,10045336
+SAR United States,9960822,90,Fixed-rate mortgage,20,1.5,386,790,3,Asia-Pacific,16383413,Europe,Lead,318,64.16,11921482
+SAR United States,9868023,80,Home Equity Line of Credit Construction loan,36,1,629,312,8,Middle East and Africa,24321415,Middle East and Africa,Funding,544,84.87,11769318
+SAR United States,9022599,73,Fixed-rate mortgage,32,1.5,531,608,10,Asia-Pacific,22247823,Europe,Lead,506,85.7,11422221
+SAR United States,9267520,73,Adjustable-rate mortgage,9,4,290,674,4,Europe,17874131,Americas,Application,900,84.64,10555604
+SAR United States,9369677,81,Adjustable-rate mortgage,5,3.5,462,809,2,Middle East and Africa,22156603,Europe,Funding,192,64.8,11096196
+Austria,9611270,79,Jumbo mortgage,32,0.5,284,568,2,Asia-Pacific,31517240,Americas,Funding,964,87.63,10488604
+Kuwait,9596609,77,Fixed-rate mortgage,12,1,476,635,10,Middle East and Africa,12608138,Americas,Underwriting,507,88.61,10054741
+Denmark,9545083,74,Adjustable-rate mortgage,27,4,405,430,2,Americas,16309277,Middle East and Africa,Application,223,80.06,11533223
+Sweden,9434267,73,Fixed-rate mortgage,17,3,260,719,7,Asia-Pacific,11397548,Americas,Lead,665,81.98,10705287
+Sweden,9467007,85,Jumbo mortgage,37,4,546,676,8,Asia-Pacific,19976369,Asia-Pacific,Underwriting,754,65.04,9505367
+Switzerland,9566568,88,Fixed-rate mortgage,16,3,459,668,5,Asia-Pacific,14738996,Middle East and Africa,Funding,983,86.81,11782300
+Iceland,9266808,89,Fixed-rate mortgage,35,2,585,707,9,Europe,16204076,Europe,Underwriting,992,68.0,11674570
+SAR United States,9456212,70,Home Equity Line of Credit Construction loan,30,"",256,497,9,Americas,13948328,Asia-Pacific,Funding,756,62.93,11656125
+Kuwait,9988096,84,Adjustable-rate mortgage,19,1,637,547,8,Europe,31258883,Europe,Underwriting,655,86.43,9558874
+Hong Kong,9401979,85,Jumbo mortgage,14,1,548,419,1,Europe,17258212,Middle East and Africa,Funding,951,89.36,10447344
+SAR United States,9238439,88,Fixed-rate mortgage,22,1.5,325,640,4,Asia-Pacific,14335180,Asia-Pacific,Application,770,67.17,9714395
+Australia,9922643,90,Adjustable-rate mortgage,40,3.5,455,448,5,Asia-Pacific,28912561,Americas,Application,195,73.91,10703085
+United Arab Emirates,9000609,76,Adjustable-rate mortgage,21,0.5,619,322,8,Asia-Pacific,20795363,Americas,Funding,491,66.59,9659726
+Iceland,9461150,85,Fixed-rate mortgage,5,3.5,611,383,7,Europe,25714544,Europe,Lead,980,62.27,10985777
+Darussalam,9777416,70,Home Equity Line of Credit Construction loan,15,3,482,365,2,Americas,31803469,Middle East and Africa,Underwriting,519,73.34,11082979
+Switzerland,9422654,76,Adjustable-rate mortgage,5,3.5,546,529,10,Europe,12255666,Americas,Lead,756,67.87,10074902
+Netherlands,9497533,78,Adjustable-rate mortgage,36,0.5,459,479,6,Europe,34496325,Middle East and Africa,Underwriting,663,65.45,10905950
+Hong Kong,9624250,86,Adjustable-rate mortgage,21,0.5,596,448,9,Europe,18814500,Middle East and Africa,Underwriting,508,70.0,11073602
+Denmark,9359079,72,Home Equity Line of Credit Construction loan,6,"",357,817,10,Middle East and Africa,33738020,Europe,Application,889,75.37,9924922
+San Marino,9399043,71,Home Equity Line of Credit Construction loan,7,"",321,360,8,Asia-Pacific,12430596,Europe,Funding,927,81.76,10482974
+Macao SAR,9075887,87,Jumbo mortgage,28,2,257,346,1,Asia-Pacific,20655342,Middle East and Africa,Underwriting,565,62.1,9925376
+Denmark,9425370,88,Fixed-rate mortgage,30,1.5,461,374,7,Americas,22565492,Europe,Application,394,81.22,11845638
+Macao SAR,9624990,74,Home Equity Line of Credit Construction loan,40,2.5,508,848,8,Americas,26099008,Middle East and Africa,Funding,717,68.75,10081487
+Denmark,9864950,88,Adjustable-rate mortgage,8,0.5,498,616,7,Americas,19471998,Americas,Application,733,80.26,11137298
+Norway,9948106,80,Home Equity Line of Credit Construction loan,25,3,457,815,7,Middle East and Africa,22275800,Asia-Pacific,Application,665,65.51,10964921
+Brunei,9107987,79,Home Equity Line of Credit Construction loan,38,3.5,649,527,7,Europe,20611226,Americas,Lead,610,70.57,10763166
+United Arab Emirates,9176577,72,Home Equity Line of Credit Construction loan,33,2,552,427,7,Europe,11905085,Europe,Funding,796,62.05,11197122
+Luxembourg,9397669,80,Fixed-rate mortgage,23,3.5,480,779,8,Asia-Pacific,16608217,Americas,Funding,851,86.81,9693822
+SAR United States,9922896,90,Home Equity Line of Credit Construction loan,19,3,532,414,8,Americas,23800517,Europe,Lead,929,76.8,9952909
+Kuwait,9039587,89,Jumbo mortgage,39,1,347,425,2,Americas,32720028,Asia-Pacific,Lead,606,80.97,10603549
+Ireland,9238004,74,Adjustable-rate mortgage,14,2.5,608,664,1,Americas,19336020,Asia-Pacific,Application,732,87.78,9978116
+Hong Kong,9233307,90,Home Equity Line of Credit Construction loan,11,0.5,407,658,3,Europe,26153742,Asia-Pacific,Underwriting,293,85.19,10765454
+Singapore,9776110,83,Home Equity Line of Credit Construction loan,14,1.5,484,745,3,Asia-Pacific,29035236,Europe,Lead,204,67.44,9610459
+SAR United States,9315483,90,Adjustable-rate mortgage,26,1,270,711,9,Middle East and Africa,16948920,Asia-Pacific,Lead,480,61.85,10893263
+Luxembourg,9453673,72,Fixed-rate mortgage,8,1,455,381,5,Middle East and Africa,27127281,Americas,Lead,660,76.24,10031585
+Netherlands,9479591,88,Home Equity Line of Credit Construction loan,10,4,323,640,7,Asia-Pacific,23590426,Middle East and Africa,Funding,585,71.48,10849585
+Austria,9871984,90,Jumbo mortgage,33,4,439,476,9,Europe,34842545,Europe,Funding,503,81.23,10243633
+Ireland,9509069,86,Fixed-rate mortgage,11,"",446,451,4,Middle East and Africa,19225948,Asia-Pacific,Underwriting,650,79.11,10313245
+Australia,9621175,85,Home Equity Line of Credit Construction loan,38,"",586,303,8,Middle East and Africa,34731831,Asia-Pacific,Underwriting,119,71.52,10766986
+Switzerland,9852594,90,Jumbo mortgage,23,2,525,748,8,Asia-Pacific,26942072,Europe,Lead,392,70.97,10227611
+Norway,9520150,84,Fixed-rate mortgage,16,4,602,569,3,Americas,19286523,Europe,Funding,841,64.14,9619898
+Denmark,9626184,76,Home Equity Line of Credit Construction loan,22,"",281,780,10,Americas,21181386,Americas,Funding,146,60.17,10746278
+Norway,9386198,89,Home Equity Line of Credit Construction loan,28,2.5,488,475,10,Europe,27834765,Europe,Lead,476,86.22,11630034
+SAR United States,9735412,87,Adjustable-rate mortgage,27,1.5,415,415,7,Americas,13401622,Americas,Application,649,61.11,10659073
+Norway,9758787,77,Jumbo mortgage,10,2,632,341,10,Asia-Pacific,26931536,Asia-Pacific,Lead,655,65.53,9610365
+Singapore,9353263,87,Home Equity Line of Credit Construction loan,17,"",373,348,10,Americas,13168236,Europe,Lead,852,64.66,11031686
+Iceland,9639868,82,Jumbo mortgage,8,3.5,315,648,1,Middle East and Africa,23677959,Americas,Funding,234,62.06,10809873
+Sweden,9368171,89,Home Equity Line of Credit Construction loan,13,4,262,406,3,Europe,13054705,Asia-Pacific,Underwriting,196,67.87,10134983
+Hong Kong,9941950,87,Home Equity Line of Credit Construction loan,27,1,623,650,2,Asia-Pacific,27324980,Asia-Pacific,Funding,830,63.23,11476958
+Kuwait,9728777,70,Home Equity Line of Credit Construction loan,22,4,438,394,6,Middle East and Africa,26095023,Middle East and Africa,Application,326,86.66,11467100
+Norway,9816734,72,Adjustable-rate mortgage,20,2.5,630,622,8,Middle East and Africa,23720082,Middle East and Africa,Underwriting,427,65.66,11407554
+Sweden,9654539,76,Fixed-rate mortgage,14,0.5,371,740,2,Middle East and Africa,26931370,Asia-Pacific,Funding,393,84.83,11764950
+"",9790722,78,Home Equity Line of Credit Construction loan,35,1,369,577,6,Middle East and Africa,12555135,Europe,Application,775,66.46,11504309
+Austria,9454000,72,Jumbo mortgage,26,4,332,794,7,Americas,22341980,Americas,Application,865,79.4,9947713
+Qatar,9682772,80,Home Equity Line of Credit Construction loan,28,0.5,626,553,10,Asia-Pacific,34909108,Europe,Underwriting,420,87.39,11977303
+Australia,9432456,78,Adjustable-rate mortgage,15,3,513,557,2,Middle East and Africa,18188693,Asia-Pacific,Lead,716,69.87,9801090
+Switzerland,9642163,79,Jumbo mortgage,15,2.5,368,507,10,Asia-Pacific,22340235,Americas,Funding,357,61.29,9583473
+Norway,9803229,84,Jumbo mortgage,6,1,478,304,3,Middle East and Africa,25166754,Middle East and Africa,Lead,599,67.76,11844678
+Darussalam,9917959,87,Fixed-rate mortgage,15,3.5,464,510,2,Asia-Pacific,11178961,Europe,Lead,940,83.63,11548930
+SAR United States,9582527,79,Jumbo mortgage,34,4,592,521,4,Americas,25871513,Americas,Application,840,77.73,10800801
+San Marino,9308056,76,Jumbo mortgage,38,0.5,343,828,8,Asia-Pacific,17628149,Middle East and Africa,Funding,852,62.49,10843103
+Germany,9395459,73,Jumbo mortgage,17,"",505,773,2,Europe,17902412,Europe,Underwriting,721,87.41,10570421
+Denmark,9621428,70,Adjustable-rate mortgage,18,1.5,446,454,10,Americas,25531858,Middle East and Africa,Underwriting,673,71.13,9596031
+Austria,9184985,88,Home Equity Line of Credit Construction loan,17,3,413,437,9,Europe,21906427,Asia-Pacific,Funding,724,87.54,11303497
+Qatar,9419120,86,Adjustable-rate mortgage,32,2.5,355,822,3,Asia-Pacific,20358208,Europe,Lead,427,80.4,11798302
+Hong Kong,9042255,87,Fixed-rate mortgage,31,2.5,346,465,9,Americas,22383027,Americas,Underwriting,591,68.06,9561319
+Ireland,9051354,84,Jumbo mortgage,32,1,320,402,6,Americas,22100403,Middle East and Africa,Funding,424,60.54,10909066
+Ireland,9832775,86,Jumbo mortgage,23,0.5,331,767,3,Europe,26039854,Middle East and Africa,Application,599,60.61,10779544
+Luxembourg,9347175,83,Adjustable-rate mortgage,30,1,260,434,9,Europe,24285486,Middle East and Africa,Underwriting,412,76.38,11762381
+Sweden,9363797,74,Fixed-rate mortgage,17,2,596,617,7,Europe,10953887,Middle East and Africa,Lead,253,83.09,9578750
+Iceland,9510937,86,Fixed-rate mortgage,37,0.5,444,328,9,Americas,34641358,Middle East and Africa,Application,815,68.71,10910810
+United Arab Emirates,9326893,78,Home Equity Line of Credit Construction loan,23,4,407,838,4,Middle East and Africa,20062645,Americas,Underwriting,763,72.65,10009423
+San Marino,9537632,77,Adjustable-rate mortgage,10,1.5,598,379,6,Middle East and Africa,30115722,Europe,Underwriting,215,75.04,11421718
+Switzerland,9485149,72,Home Equity Line of Credit Construction loan,31,2.5,476,401,3,Europe,20792081,Americas,Funding,532,74.57,10531797
+Kuwait,9441948,72,Adjustable-rate mortgage,8,1.5,523,724,10,Asia-Pacific,17631725,Asia-Pacific,Underwriting,158,74.09,11938766
+Netherlands,9931029,74,Fixed-rate mortgage,27,"",433,521,6,Middle East and Africa,33197047,Europe,Lead,232,84.19,11069270
+Ireland,9816959,86,Adjustable-rate mortgage,38,2.5,409,499,2,Europe,32554151,Middle East and Africa,Underwriting,568,62.94,10276116
+Denmark,9283062,77,Jumbo mortgage,35,2,305,822,6,Americas,28242074,Asia-Pacific,Underwriting,748,66.19,9984464
+San Marino,9446577,77,Home Equity Line of Credit Construction loan,27,"",529,336,9,Asia-Pacific,23311052,Middle East and Africa,Lead,420,89.39,10163813
+Switzerland,9527694,70,Home Equity Line of Credit Construction loan,9,0.5,297,334,10,Europe,10604140,Asia-Pacific,Application,918,66.63,10115762
+Kuwait,9414350,84,Adjustable-rate mortgage,17,1,418,438,9,Asia-Pacific,19431791,Europe,Funding,378,80.26,11596017
+Germany,9277218,87,Fixed-rate mortgage,35,0.5,264,460,7,Europe,31904197,Americas,Lead,416,79.7,9944555
+Singapore,9146136,81,Adjustable-rate mortgage,7,"",354,446,10,Asia-Pacific,11443916,Middle East and Africa,Application,254,76.67,10258316
+SAR United States,9542375,86,Adjustable-rate mortgage,18,0.5,537,405,8,Americas,27865337,Asia-Pacific,Application,115,80.04,10983355
+"",9712987,70,Home Equity Line of Credit Construction loan,33,3,346,757,4,Europe,29464447,Europe,Application,500,65.77,9685349
+United Arab Emirates,9568597,72,Jumbo mortgage,17,1.5,322,365,9,Europe,26656652,Americas,Underwriting,552,87.55,11378827
+Norway,9691179,82,Adjustable-rate mortgage,5,"",554,633,3,Americas,29457174,Asia-Pacific,Underwriting,647,79.02,10251738
+United Arab Emirates,9837607,72,Home Equity Line of Credit Construction loan,9,"",608,679,1,Europe,10534782,Asia-Pacific,Funding,884,84.81,10124412
+United Arab Emirates,9432318,90,Home Equity Line of Credit Construction loan,12,0.5,554,729,9,Americas,16615417,Asia-Pacific,Lead,585,88.62,10580512
+Darussalam,9201288,72,Home Equity Line of Credit Construction loan,37,1,581,764,8,Middle East and Africa,28201993,Europe,Underwriting,798,69.68,10677239
+Netherlands,9050298,82,Home Equity Line of Credit Construction loan,40,3,410,731,5,Middle East and Africa,26395339,Americas,Underwriting,529,70.08,11658510
+Qatar,9758638,71,Fixed-rate mortgage,32,1.5,377,589,9,Americas,30080704,Americas,Lead,252,60.55,10580212
+"",9758152,74,Jumbo mortgage,33,3.5,483,371,4,Asia-Pacific,12600581,Europe,Application,990,84.53,9817507
+Brunei,9172835,81,Home Equity Line of Credit Construction loan,26,1.5,528,675,5,Asia-Pacific,11270315,Asia-Pacific,Application,792,64.69,9816758
+Netherlands,9286579,82,Jumbo mortgage,12,3.5,503,775,7,Middle East and Africa,12476075,Europe,Lead,881,67.67,11783829
+Ireland,9131279,81,Home Equity Line of Credit Construction loan,21,2,413,769,4,Europe,21023509,Middle East and Africa,Application,509,82.74,11221979
+Singapore,9244845,76,Adjustable-rate mortgage,37,2.5,518,821,10,Europe,26274515,Europe,Lead,169,78.47,9899109
+San Marino,9855324,88,Adjustable-rate mortgage,13,1.5,537,308,3,Americas,20634574,Europe,Lead,183,87.19,11968768
+Macao SAR,9507598,90,Fixed-rate mortgage,15,"",581,634,3,Americas,10662801,Asia-Pacific,Lead,244,83.16,11377447
+Norway,9306768,90,Home Equity Line of Credit Construction loan,7,0.5,389,432,1,Europe,22123794,Asia-Pacific,Underwriting,882,89.31,10847142
+Germany,9520559,86,Home Equity Line of Credit Construction loan,30,"",259,406,1,Americas,24358589,Europe,Lead,369,63.22,10457849
+Netherlands,9127480,82,Adjustable-rate mortgage,24,2,481,413,1,Asia-Pacific,27627112,Americas,Underwriting,113,83.3,10723432
+Qatar,9145873,75,Jumbo mortgage,24,2.5,444,442,5,Europe,22927108,Europe,Funding,116,84.18,10802469
+Brunei,9779878,80,Fixed-rate mortgage,27,1,339,750,9,Europe,26463602,Middle East and Africa,Lead,247,81.44,9677145
+Switzerland,9829291,84,Home Equity Line of Credit Construction loan,31,0.5,585,553,6,Asia-Pacific,11965358,Asia-Pacific,Application,189,67.09,10377785
+Sweden,9347701,89,Home Equity Line of Credit Construction loan,13,2.5,418,426,8,Asia-Pacific,18913109,Middle East and Africa,Underwriting,935,77.58,11864222
+Iceland,9841049,84,Adjustable-rate mortgage,36,3.5,278,479,7,Middle East and Africa,16896728,Middle East and Africa,Funding,849,61.36,11788833
+Norway,9411183,81,Adjustable-rate mortgage,16,"",364,592,10,Americas,20975870,Asia-Pacific,Funding,253,63.67,9521412
+Ireland,9703698,89,Fixed-rate mortgage,6,3,337,805,1,Europe,10052247,Europe,Underwriting,239,60.41,10247714
+SAR United States,9714585,76,Home Equity Line of Credit Construction loan,13,3,521,317,10,Middle East and Africa,11221686,Europe,Underwriting,696,63.45,9507114
+Norway,9378726,88,Home Equity Line of Credit Construction loan,32,1,307,363,9,Middle East and Africa,24096903,Europe,Underwriting,889,88.93,10343397
+Austria,9230974,86,Fixed-rate mortgage,39,"",634,627,6,Middle East and Africa,16642730,Americas,Application,333,71.16,10545598
+Macao SAR,9059520,86,Adjustable-rate mortgage,11,4,592,799,8,Americas,16917334,Middle East and Africa,Underwriting,951,69.53,10302967
+Sweden,9346866,86,Adjustable-rate mortgage,14,4,301,579,7,Europe,17664528,Europe,Lead,697,72.86,10331604
+Macao SAR,9386809,79,Adjustable-rate mortgage,31,"",313,530,7,Middle East and Africa,19456874,Americas,Lead,859,62.58,10555973
+Singapore,9062169,70,Home Equity Line of Credit Construction loan,23,3.5,631,427,9,Europe,15178780,Americas,Lead,199,85.24,9827168
+Singapore,9499962,81,Jumbo mortgage,40,1,438,766,5,Middle East and Africa,11057819,Europe,Funding,181,61.16,10671853
+Austria,9385576,78,Home Equity Line of Credit Construction loan,34,2.5,465,835,7,Asia-Pacific,15101216,Europe,Underwriting,692,64.11,9935886
+Darussalam,9637114,84,Jumbo mortgage,40,0.5,608,499,6,Americas,25847974,Europe,Lead,973,61.58,11700121
+Austria,9267229,77,Adjustable-rate mortgage,6,4,467,429,5,Middle East and Africa,18944751,Europe,Funding,603,73.94,9942980
+Darussalam,9620690,90,Home Equity Line of Credit Construction loan,30,1,406,678,3,Europe,17302676,Europe,Lead,154,69.64,9870957
+Kuwait,9794130,88,Home Equity Line of Credit Construction loan,35,3.5,648,728,10,Asia-Pacific,28113492,Asia-Pacific,Application,946,83.16,10059379
+Qatar,9692214,82,Adjustable-rate mortgage,38,"",262,712,5,Asia-Pacific,17376853,Asia-Pacific,Lead,307,72.31,10100431
+Germany,9952745,73,Jumbo mortgage,15,3.5,623,467,10,Europe,25480310,Americas,Lead,788,76.37,9606489
+Brunei,9713096,87,Adjustable-rate mortgage,29,1.5,449,405,9,Europe,21695628,Americas,Lead,589,62.22,11354763
+Darussalam,9780733,84,Adjustable-rate mortgage,35,4,364,804,9,Middle East and Africa,16861631,Europe,Funding,822,83.43,11787847
+Brunei,9149555,85,Home Equity Line of Credit Construction loan,15,1.5,600,670,1,Asia-Pacific,18392402,Europe,Underwriting,313,81.01,9718805
+Brunei,9786983,80,Jumbo mortgage,11,3.5,614,376,2,Asia-Pacific,34138303,Europe,Underwriting,965,83.82,10283029
+Denmark,9787508,82,Jumbo mortgage,10,3.5,548,306,3,Asia-Pacific,27403201,Asia-Pacific,Lead,217,86.23,10821873
+San Marino,9595245,71,Adjustable-rate mortgage,30,2.5,609,689,3,Asia-Pacific,17604116,Asia-Pacific,Lead,354,86.51,11755160
+SAR United States,9324701,78,Home Equity Line of Credit Construction loan,40,2,440,567,7,Americas,12108504,Americas,Funding,752,69.7,9739427
+Switzerland,9329734,72,Home Equity Line of Credit Construction loan,31,2.5,624,783,4,Middle East and Africa,16449492,Asia-Pacific,Underwriting,861,65.37,11474380
+Luxembourg,9720473,85,Home Equity Line of Credit Construction loan,5,1.5,434,483,3,Middle East and Africa,18216540,Americas,Underwriting,912,61.25,10260177
+Iceland,9136222,79,Adjustable-rate mortgage,21,1,505,632,3,Middle East and Africa,12611782,Americas,Lead,362,87.11,10472067
+Luxembourg,9601436,80,Home Equity Line of Credit Construction loan,10,3.5,461,719,10,Europe,11893627,Middle East and Africa,Lead,556,86.04,10504028
+San Marino,9402989,88,Jumbo mortgage,21,2.5,590,829,7,Asia-Pacific,17908853,Middle East and Africa,Funding,752,86.44,9866310
+Denmark,9240495,84,Jumbo mortgage,40,"",358,713,9,Middle East and Africa,14160379,Europe,Application,464,87.36,10903598
+Norway,9465731,90,Adjustable-rate mortgage,6,4,540,354,5,Middle East and Africa,19384528,Americas,Underwriting,981,68.11,11358040
+Norway,9710808,71,Adjustable-rate mortgage,21,3.5,336,743,5,Europe,10937395,Middle East and Africa,Lead,333,73.91,9779678
+Singapore,9289986,72,Adjustable-rate mortgage,35,1.5,281,323,9,Middle East and Africa,26530582,Americas,Underwriting,890,72.06,9879394
+United Arab Emirates,9918968,79,Fixed-rate mortgage,18,"",352,467,4,Americas,11680388,Europe,Application,587,68.74,11726054
+"",9020090,85,Adjustable-rate mortgage,36,1,327,436,5,Europe,19921346,Asia-Pacific,Application,919,78.95,11332213
+"",9791731,90,Home Equity Line of Credit Construction loan,28,1.5,639,795,10,Asia-Pacific,19336788,Middle East and Africa,Funding,352,63.49,10483227
+Macao SAR,9302246,73,Adjustable-rate mortgage,37,2.5,630,843,10,Americas,16891807,Asia-Pacific,Underwriting,394,76.97,10818643
+Denmark,9363774,84,Jumbo mortgage,26,1.5,517,446,3,Middle East and Africa,31767820,Middle East and Africa,Application,678,74.33,11402710
+Austria,9411995,90,Home Equity Line of Credit Construction loan,11,0.5,368,304,1,Americas,19654361,Europe,Funding,139,69.47,11924574
+Switzerland,9396729,73,Jumbo mortgage,27,1.5,439,330,8,Europe,13390698,Americas,Funding,578,73.23,11011880
+Austria,9618375,82,Fixed-rate mortgage,13,4,332,459,1,Middle East and Africa,13987514,Asia-Pacific,Underwriting,458,73.14,10668309
+Qatar,9692487,85,Adjustable-rate mortgage,32,0.5,493,395,8,Americas,17283791,Middle East and Africa,Funding,209,87.61,11814231
+Hong Kong,9518105,83,Fixed-rate mortgage,13,2.5,562,505,8,Europe,34788506,Americas,Application,934,62.1,11199216
+Qatar,9735049,83,Jumbo mortgage,18,4,550,419,2,Middle East and Africa,16729157,Americas,Application,503,78.52,11639787
+United Arab Emirates,9305592,89,Home Equity Line of Credit Construction loan,33,2.5,528,608,6,Asia-Pacific,33948930,Middle East and Africa,Application,172,83.43,11307868
+Qatar,9528752,87,Home Equity Line of Credit Construction loan,10,3.5,335,734,8,Middle East and Africa,14033538,Europe,Application,506,70.77,11675346
+Darussalam,9679605,70,Fixed-rate mortgage,40,0.5,536,753,1,Middle East and Africa,31534548,Americas,Funding,177,69.19,10726342
+San Marino,9632740,70,Adjustable-rate mortgage,14,2,367,555,4,Europe,25482822,Americas,Lead,643,81.43,9719887
+Hong Kong,9898437,90,Jumbo mortgage,39,3,630,613,9,Asia-Pacific,22282498,Asia-Pacific,Lead,458,62.63,11876604
+Brunei,9466630,74,Home Equity Line of Credit Construction loan,36,1,591,336,5,Middle East and Africa,27706494,Americas,Lead,701,85.98,11111130
+San Marino,9422275,73,Home Equity Line of Credit Construction loan,12,2,492,701,6,Americas,14746431,Americas,Lead,969,89.62,10895545
+Switzerland,9838115,76,Home Equity Line of Credit Construction loan,39,2,612,789,5,Europe,14439032,Americas,Lead,507,72.43,10422150
+United Arab Emirates,9508071,79,Jumbo mortgage,13,"",421,728,5,Middle East and Africa,30449129,Middle East and Africa,Underwriting,145,87.82,11254920
+Darussalam,9075095,79,Jumbo mortgage,29,"",493,352,2,Americas,27859652,Asia-Pacific,Lead,994,67.69,10654607
+Iceland,9397248,73,Fixed-rate mortgage,10,2,474,725,8,Asia-Pacific,33951735,Americas,Funding,879,61.75,10765580
+Sweden,9283448,90,Fixed-rate mortgage,11,4,459,601,6,Asia-Pacific,26376144,Asia-Pacific,Funding,838,71.2,10294911
+Netherlands,9682874,76,Jumbo mortgage,13,1.5,555,624,1,Middle East and Africa,13222951,Europe,Application,547,74.31,11514758
+Kuwait,9570761,86,Fixed-rate mortgage,30,4,622,478,2,Asia-Pacific,15825526,Asia-Pacific,Underwriting,715,84.49,10134895
+Netherlands,9590635,81,Home Equity Line of Credit Construction loan,21,4,344,847,10,Europe,25563900,Middle East and Africa,Underwriting,669,62.88,9603866
+Iceland,9252699,86,Jumbo mortgage,9,2.5,256,400,7,Europe,14507790,Europe,Underwriting,799,61.11,11411489
+Macao SAR,9385178,70,Fixed-rate mortgage,29,0.5,611,568,3,Americas,19816658,Americas,Underwriting,893,74.8,10681008
+Darussalam,9886637,83,Home Equity Line of Credit Construction loan,9,1.5,353,684,3,Americas,14359370,Americas,Funding,736,74.71,11174414
+Switzerland,9728939,79,Home Equity Line of Credit Construction loan,30,2.5,366,607,2,Asia-Pacific,12667709,Asia-Pacific,Application,730,66.85,10285346
+Switzerland,9760020,74,Jumbo mortgage,39,2.5,255,621,9,Middle East and Africa,19205847,Asia-Pacific,Application,554,72.12,10165205
+Brunei,9424078,77,Adjustable-rate mortgage,6,3.5,342,688,10,Europe,23817610,Asia-Pacific,Underwriting,788,79.22,11684829
+Austria,9098176,83,Home Equity Line of Credit Construction loan,38,0.5,624,597,5,Europe,27454397,Europe,Funding,313,64.69,10252281
+United Arab Emirates,9976432,83,Adjustable-rate mortgage,20,3,402,690,1,Europe,21795410,Americas,Application,753,71.07,11261240
+Norway,9224149,72,Fixed-rate mortgage,8,0.5,400,757,5,Middle East and Africa,34969060,Europe,Application,436,76.45,11878342
+"",9938557,71,Jumbo mortgage,16,4,392,404,4,Middle East and Africa,11932158,Americas,Application,423,82.25,10781997
+"",9897675,76,Fixed-rate mortgage,6,2,378,493,8,Middle East and Africa,27522036,Europe,Underwriting,967,87.71,10530640
+Germany,9066283,74,Adjustable-rate mortgage,23,1.5,639,742,2,Americas,32636081,Europe,Application,456,80.19,11888157
+Hong Kong,9514158,75,Fixed-rate mortgage,40,1,352,456,6,Asia-Pacific,32854721,Middle East and Africa,Underwriting,342,66.46,10029981
+Macao SAR,9495342,72,Adjustable-rate mortgage,29,3,480,710,6,Americas,14292604,Europe,Lead,952,80.79,11098777
+Netherlands,9216977,81,Fixed-rate mortgage,28,2,612,519,8,Americas,33442499,Americas,Funding,244,78.88,10070141
+Brunei,9029753,79,Fixed-rate mortgage,12,2,378,678,3,Europe,28817316,Middle East and Africa,Underwriting,316,67.36,11727706
+Iceland,9623743,80,Home Equity Line of Credit Construction loan,34,"",436,684,1,Asia-Pacific,10732083,Americas,Lead,956,81.19,11014929
+Singapore,9348491,72,Home Equity Line of Credit Construction loan,36,3,264,809,5,Europe,18744387,Americas,Funding,462,88.3,10195101
+Iceland,9946992,85,Adjustable-rate mortgage,24,0.5,299,607,2,Americas,15962542,Asia-Pacific,Application,546,88.21,10907407
+Brunei,9819412,75,Jumbo mortgage,13,0.5,423,730,6,Americas,18581998,Asia-Pacific,Application,505,72.06,10276659
+Switzerland,9647178,81,Fixed-rate mortgage,27,"",604,785,6,Americas,26442112,Middle East and Africa,Funding,712,65.48,11049700
+United Arab Emirates,9251445,81,Fixed-rate mortgage,12,2.5,406,587,10,Europe,14187137,Asia-Pacific,Underwriting,390,66.11,9868995
+Austria,9157929,84,Adjustable-rate mortgage,14,4,286,491,1,Americas,16010161,Asia-Pacific,Lead,430,69.77,11596777
+Sweden,9995137,72,Fixed-rate mortgage,36,2.5,374,497,4,Middle East and Africa,24157934,Middle East and Africa,Application,469,67.56,11975290
+Hong Kong,9545963,70,Jumbo mortgage,12,4,295,471,6,Americas,14298385,Asia-Pacific,Underwriting,641,75.32,9885795
+Darussalam,9854342,75,Adjustable-rate mortgage,17,"",323,733,5,Europe,27494780,Asia-Pacific,Underwriting,816,77.75,9503801
+Germany,9412515,82,Fixed-rate mortgage,26,3,530,445,6,Asia-Pacific,34537734,Europe,Funding,645,63.15,11893889
+Denmark,9559976,86,Adjustable-rate mortgage,39,2.5,638,629,8,Middle East and Africa,10049755,Asia-Pacific,Funding,248,79.06,10574961
+Austria,9600782,84,Home Equity Line of Credit Construction loan,22,"",307,615,9,Asia-Pacific,17252353,Americas,Funding,459,72.92,9983917
+Denmark,9748756,88,Fixed-rate mortgage,24,3.5,268,555,4,Asia-Pacific,22997644,Americas,Funding,385,71.27,11318559
+Kuwait,9085501,82,Fixed-rate mortgage,15,1,300,487,10,Asia-Pacific,22414205,Americas,Underwriting,685,89.11,11547197
+Singapore,9220060,79,Fixed-rate mortgage,18,1,277,335,5,Asia-Pacific,25881685,Americas,Lead,582,79.97,9861664
+Austria,9302609,83,Jumbo mortgage,40,3.5,608,709,7,Asia-Pacific,33947980,Middle East and Africa,Lead,107,77.37,9680280
+Sweden,9076838,77,Adjustable-rate mortgage,9,1.5,403,512,10,Asia-Pacific,11296215,Americas,Underwriting,519,79.16,11891624
+Norway,9271397,73,Jumbo mortgage,23,4,288,687,4,Middle East and Africa,27144186,Americas,Lead,272,68.37,11223193
+Norway,9920919,78,Adjustable-rate mortgage,34,4,554,535,5,Americas,10708760,Americas,Application,770,78.38,9809953
+United Arab Emirates,9135700,79,Adjustable-rate mortgage,12,2.5,587,565,8,Asia-Pacific,34336478,Europe,Underwriting,454,68.43,10995819
+Iceland,9699308,87,Fixed-rate mortgage,20,3,346,844,7,Asia-Pacific,32071917,Americas,Underwriting,750,69.58,11418985
+Denmark,9876843,90,Home Equity Line of Credit Construction loan,24,2,442,555,3,Americas,16761726,Middle East and Africa,Funding,543,82.18,9693976
+Brunei,9446597,82,Home Equity Line of Credit Construction loan,7,0.5,541,491,8,Americas,19373735,Asia-Pacific,Lead,270,87.18,11414874
+Luxembourg,9826194,84,Fixed-rate mortgage,16,"",610,304,6,Middle East and Africa,16847237,Americas,Funding,439,76.03,11954679
+"",9106573,83,Fixed-rate mortgage,37,2.5,390,524,1,Europe,24827922,Middle East and Africa,Funding,453,68.58,10864946
+"",9293484,87,Home Equity Line of Credit Construction loan,14,2.5,563,423,7,Asia-Pacific,32820334,Europe,Funding,484,83.5,11755222
+Qatar,9977906,90,Jumbo mortgage,8,"",287,304,9,Europe,20901195,Americas,Funding,570,78.05,10596299
+Sweden,9099960,77,Jumbo mortgage,30,3,365,835,3,Middle East and Africa,30719309,Middle East and Africa,Application,995,76.54,10420203
+Luxembourg,9518842,74,Jumbo mortgage,39,1.5,273,335,6,Europe,26453111,Middle East and Africa,Lead,672,61.39,10200535
+Darussalam,9970378,78,Jumbo mortgage,26,3,585,823,5,Middle East and Africa,16546190,Americas,Funding,478,82.84,10317352
+Ireland,9354061,75,Fixed-rate mortgage,5,2.5,455,653,8,Europe,23611252,Asia-Pacific,Funding,341,82.96,9618372
+Iceland,9665315,88,Jumbo mortgage,17,0.5,405,530,9,Asia-Pacific,15356904,Asia-Pacific,Lead,477,66.59,10663640
+Iceland,9996681,71,Home Equity Line of Credit Construction loan,11,1.5,418,538,5,Asia-Pacific,32959007,Asia-Pacific,Application,772,71.52,11104415
+Singapore,9849313,87,Home Equity Line of Credit Construction loan,21,2.5,646,429,1,Americas,11080654,Europe,Application,634,71.79,10592642
+Germany,9312131,84,Jumbo mortgage,20,3.5,296,662,5,Asia-Pacific,32733820,Middle East and Africa,Funding,748,76.26,9931119
+Singapore,9170814,76,Home Equity Line of Credit Construction loan,15,2,633,658,3,Asia-Pacific,33015525,Asia-Pacific,Application,949,83.45,10971587
+Brunei,9859530,86,Jumbo mortgage,8,4,608,732,9,Asia-Pacific,30274007,Middle East and Africa,Underwriting,444,63.34,11379664
+United Arab Emirates,9008207,85,Home Equity Line of Credit Construction loan,40,4,350,402,6,Middle East and Africa,11968025,Asia-Pacific,Underwriting,795,79.97,11911203
+San Marino,9147444,85,Jumbo mortgage,11,3.5,368,577,7,Europe,31022071,Asia-Pacific,Lead,297,85.81,11843611
+Germany,9483236,89,Jumbo mortgage,19,3,525,327,6,Middle East and Africa,18075191,Americas,Funding,307,74.14,10235645
+SAR United States,9500733,80,Home Equity Line of Credit Construction loan,6,3,445,810,3,Europe,10480320,Middle East and Africa,Lead,706,67.07,10299077
+Austria,9489594,83,Fixed-rate mortgage,11,2.5,643,367,5,Americas,15094890,Europe,Lead,325,75.23,10414650
+Singapore,9553649,87,Home Equity Line of Credit Construction loan,40,2.5,295,779,3,Middle East and Africa,32379702,Asia-Pacific,Underwriting,932,89.62,10221344
+Australia,9432803,70,Fixed-rate mortgage,6,1,471,725,8,Middle East and Africa,27018887,Middle East and Africa,Funding,974,83.38,11446850
+Darussalam,9159668,86,Jumbo mortgage,12,3.5,296,834,7,Middle East and Africa,12784608,Americas,Underwriting,135,67.34,11107560
+United Arab Emirates,9408294,87,Home Equity Line of Credit Construction loan,38,2.5,278,437,8,Americas,33999905,Middle East and Africa,Application,504,60.73,10563601
+Macao SAR,9212754,82,Home Equity Line of Credit Construction loan,15,4,357,668,2,Americas,15392934,Middle East and Africa,Lead,921,61.84,10092768
+Norway,9892678,90,Jumbo mortgage,15,2,284,718,2,Americas,18468504,Europe,Funding,313,62.23,11094139
+Brunei,9274514,83,Adjustable-rate mortgage,26,4,395,690,5,Asia-Pacific,21792726,Middle East and Africa,Underwriting,736,83.63,11041088
+Darussalam,9710641,90,Fixed-rate mortgage,36,3,626,381,10,Europe,23487524,Middle East and Africa,Application,727,75.41,11920050
+Darussalam,9121521,82,Fixed-rate mortgage,37,2,377,818,5,Asia-Pacific,13056539,Europe,Application,582,80.45,10671480
+Ireland,9630169,74,Adjustable-rate mortgage,13,1,586,491,2,Middle East and Africa,30752063,Middle East and Africa,Underwriting,999,73.03,9694886
+Australia,9941330,86,Jumbo mortgage,21,"",457,454,1,Europe,31966141,Americas,Underwriting,182,64.23,10884025
+Norway,9222467,73,Fixed-rate mortgage,20,1,543,363,1,Europe,19954399,Europe,Underwriting,103,89.61,10942689
+Ireland,9039439,72,Fixed-rate mortgage,11,1.5,297,349,10,Europe,19049558,Americas,Application,581,89.91,10909248
+Hong Kong,9734758,76,Jumbo mortgage,13,"",354,617,8,Middle East and Africa,34354338,Middle East and Africa,Application,714,66.47,10632865
+Qatar,9293649,81,Jumbo mortgage,6,1.5,264,619,8,Americas,22777561,Asia-Pacific,Underwriting,556,61.58,10930480
+United Arab Emirates,9375783,78,Adjustable-rate mortgage,23,2,533,700,3,Asia-Pacific,26142472,Asia-Pacific,Underwriting,305,64.86,11414474
+Sweden,9838281,82,Adjustable-rate mortgage,22,"",253,666,9,Europe,30341074,Europe,Underwriting,996,89.8,11821021
+Sweden,9950943,81,Adjustable-rate mortgage,28,3.5,392,502,5,Americas,21250345,Americas,Funding,391,65.53,11974563
+United Arab Emirates,9098933,73,Jumbo mortgage,23,4,371,812,3,Asia-Pacific,31618197,Asia-Pacific,Lead,369,84.79,11499398
+Denmark,9581661,83,Fixed-rate mortgage,23,3,449,537,8,Americas,28897014,Middle East and Africa,Funding,877,62.67,10818257
+Sweden,9118557,73,Fixed-rate mortgage,37,1.5,387,662,7,Europe,11854111,Europe,Funding,663,68.86,11888979
+Norway,9999254,80,Fixed-rate mortgage,39,1.5,603,658,7,Europe,17442859,Asia-Pacific,Underwriting,458,70.88,11283439
+Qatar,9869639,90,Fixed-rate mortgage,7,4,537,403,4,Europe,21316452,Middle East and Africa,Application,956,64.78,11774527
+Singapore,9338979,90,Fixed-rate mortgage,9,0.5,363,705,2,Americas,22033525,Europe,Underwriting,607,89.07,9731944
+Denmark,9572268,83,Adjustable-rate mortgage,19,4,546,718,9,Middle East and Africa,13438252,Europe,Lead,973,70.07,11416175
+Sweden,9242644,81,Adjustable-rate mortgage,18,0.5,485,628,1,Americas,13277877,Americas,Underwriting,497,80.39,11163560
+San Marino,9205771,79,Adjustable-rate mortgage,27,"",610,697,6,Middle East and Africa,16631937,Americas,Underwriting,165,73.3,9588375
+Sweden,9440441,74,Home Equity Line of Credit Construction loan,32,3.5,438,476,1,Americas,19969814,Middle East and Africa,Lead,456,87.75,9718265
+Switzerland,9393833,72,Jumbo mortgage,21,1,643,816,10,Americas,26539008,Middle East and Africa,Underwriting,262,88.48,10733639
+Iceland,9886076,82,Adjustable-rate mortgage,18,3.5,308,727,10,Europe,19188340,Asia-Pacific,Underwriting,958,76.5,11700601
+Darussalam,9243864,75,Adjustable-rate mortgage,29,"",403,543,10,Middle East and Africa,16279882,Asia-Pacific,Lead,841,87.54,9946914
+Luxembourg,9540118,87,Home Equity Line of Credit Construction loan,13,0.5,358,619,10,Asia-Pacific,25951763,Europe,Application,347,79.24,9732459
+Kuwait,9735940,74,Jumbo mortgage,13,2.5,472,616,1,Americas,27222078,Middle East and Africa,Funding,538,67.16,10466076
+Norway,9302649,72,Jumbo mortgage,12,2,505,792,9,Americas,11863371,Americas,Funding,263,81.5,11164060
+Austria,9652413,83,Jumbo mortgage,21,1.5,515,342,3,Americas,16426686,Europe,Underwriting,884,63.64,11713443
+Luxembourg,9253365,71,Home Equity Line of Credit Construction loan,30,2.5,625,620,1,Americas,21260595,Asia-Pacific,Underwriting,456,78.25,11953251
+Ireland,9041627,85,Adjustable-rate mortgage,6,4,511,643,10,Asia-Pacific,13186149,Middle East and Africa,Lead,992,81.19,10830036
+United Arab Emirates,9823128,74,Jumbo mortgage,33,2.5,481,607,7,Asia-Pacific,31302913,Europe,Funding,251,85.58,10369488
+Ireland,9525332,71,Adjustable-rate mortgage,14,3.5,524,441,10,Europe,34416074,Asia-Pacific,Underwriting,646,81.44,10645695
+Kuwait,9528197,79,Jumbo mortgage,29,1.5,258,596,10,Asia-Pacific,12091408,Europe,Funding,600,89.32,9603352
+Iceland,9977297,87,Home Equity Line of Credit Construction loan,18,2.5,413,328,2,Middle East and Africa,15869547,Middle East and Africa,Application,844,76.66,10454292
+Darussalam,9870446,79,Adjustable-rate mortgage,31,3.5,641,650,5,Europe,22977681,Europe,Lead,430,62.08,10531631
+Netherlands,9635134,86,Adjustable-rate mortgage,27,0.5,394,737,10,Asia-Pacific,20498441,Europe,Funding,339,70.71,11678813
+Hong Kong,9611575,89,Fixed-rate mortgage,33,2,476,454,5,Americas,24911351,Europe,Lead,822,70.36,10859220
+Iceland,9220548,72,Home Equity Line of Credit Construction loan,34,3,361,693,1,Asia-Pacific,22608172,Middle East and Africa,Application,661,88.99,11123388
+Australia,9569842,87,Jumbo mortgage,30,2.5,607,539,3,Americas,16171334,Americas,Application,431,84.23,10499855
+Hong Kong,9339725,83,Adjustable-rate mortgage,20,3,591,419,7,Middle East and Africa,14887053,Europe,Application,669,62.32,10020086
+United Arab Emirates,9361958,81,Jumbo mortgage,14,3,439,638,4,Asia-Pacific,15954888,Middle East and Africa,Lead,688,88.29,11924956
+Ireland,9702831,87,Fixed-rate mortgage,8,3,308,527,5,Europe,34029013,Asia-Pacific,Lead,883,82.78,10897448
+Ireland,9785740,78,Home Equity Line of Credit Construction loan,6,2,585,806,7,Middle East and Africa,13772508,Europe,Application,257,83.28,10003043
+SAR United States,9157750,89,Jumbo mortgage,19,3,433,722,5,Asia-Pacific,31857452,Middle East and Africa,Application,672,80.11,9873313
+Macao SAR,9531482,78,Adjustable-rate mortgage,36,"",263,503,10,Europe,22817979,Asia-Pacific,Underwriting,306,67.48,10710224
+Germany,9109162,76,Jumbo mortgage,37,"",336,419,10,Americas,25711361,Asia-Pacific,Underwriting,866,71.35,10627454
+"",9094880,79,Home Equity Line of Credit Construction loan,27,3,587,704,1,Europe,19024391,Americas,Funding,117,64.8,11277244
+Macao SAR,9124754,70,Home Equity Line of Credit Construction loan,5,1.5,267,382,6,Middle East and Africa,26232603,Americas,Underwriting,918,71.05,10894489
+Norway,9422758,90,Adjustable-rate mortgage,33,"",596,399,4,Europe,26293911,Middle East and Africa,Funding,665,80.87,11333871
+Macao SAR,9151835,80,Fixed-rate mortgage,35,3,305,464,9,Asia-Pacific,32467129,Asia-Pacific,Funding,497,65.38,9797495
+Kuwait,9118066,82,Fixed-rate mortgage,27,0.5,275,439,1,Europe,13671617,Americas,Underwriting,728,84.6,11943196
+Luxembourg,9801058,82,Home Equity Line of Credit Construction loan,40,0.5,434,682,9,Asia-Pacific,28178788,Europe,Application,324,84.3,9959929
+Ireland,9941457,81,Fixed-rate mortgage,6,3.5,539,755,10,Europe,12319223,Europe,Funding,728,62.73,11741740
+Kuwait,9707252,71,Fixed-rate mortgage,22,0.5,518,467,10,Asia-Pacific,20019826,Asia-Pacific,Lead,772,80.33,11513447
+Germany,9640572,84,Jumbo mortgage,33,"",508,843,3,Asia-Pacific,13867304,Middle East and Africa,Underwriting,631,79.01,11085317
+Australia,9188829,82,Fixed-rate mortgage,34,1.5,419,457,7,Asia-Pacific,28366233,Americas,Application,776,84.25,9638167
+Ireland,9157893,87,Jumbo mortgage,6,3.5,486,754,4,Middle East and Africa,28225697,Asia-Pacific,Lead,710,81.68,10292853
+Switzerland,9305545,85,Jumbo mortgage,26,1.5,282,416,3,Americas,31303724,Asia-Pacific,Lead,470,68.46,10678683
+Kuwait,9275147,73,Fixed-rate mortgage,28,4,441,423,1,Asia-Pacific,31986409,Europe,Application,843,81.35,9514653
+Darussalam,9594965,73,Jumbo mortgage,9,2.5,350,680,5,Middle East and Africa,21708220,Middle East and Africa,Underwriting,531,61.03,11182120
+Luxembourg,9545093,85,Jumbo mortgage,7,2.5,359,319,8,Europe,23373066,Asia-Pacific,Lead,576,86.63,11764700
+Ireland,9489583,72,Fixed-rate mortgage,17,0.5,277,778,2,Asia-Pacific,21439133,Middle East and Africa,Lead,850,61.44,11559536
+Sweden,9393299,79,Adjustable-rate mortgage,25,1,645,833,4,Americas,30486049,Asia-Pacific,Application,471,82.75,11522119
+Iceland,9432561,77,Jumbo mortgage,8,2.5,352,434,5,Middle East and Africa,31972749,Americas,Funding,811,78.68,9744135
+United Arab Emirates,9159596,85,Adjustable-rate mortgage,20,4,536,540,6,Americas,18547932,Europe,Application,317,86.19,9586870
+Macao SAR,9121742,84,Home Equity Line of Credit Construction loan,40,1.5,299,418,3,Americas,22000217,Europe,Underwriting,839,79.87,11703755
+United Arab Emirates,9531597,89,Adjustable-rate mortgage,14,0.5,588,556,6,Europe,29520429,Middle East and Africa,Underwriting,848,67.5,9633237
+Germany,9940663,86,Home Equity Line of Credit Construction loan,26,"",526,349,4,Europe,21763478,Americas,Funding,285,88.31,10827764
+Austria,9625702,84,Home Equity Line of Credit Construction loan,28,3,303,552,7,Europe,21993631,Asia-Pacific,Underwriting,284,77.38,10958237
+Qatar,9586635,87,Adjustable-rate mortgage,22,2,380,420,4,Americas,29833003,Americas,Underwriting,698,73.56,10211030
+Hong Kong,9926191,90,Adjustable-rate mortgage,13,4,410,404,2,Asia-Pacific,11960264,Asia-Pacific,Application,472,68.41,10495706
+Brunei,9560575,88,Fixed-rate mortgage,29,1,624,698,1,Asia-Pacific,16718587,Asia-Pacific,Funding,638,74.86,11060338
+United Arab Emirates,9333779,73,Adjustable-rate mortgage,21,0.5,356,559,3,Americas,11839894,Asia-Pacific,Underwriting,544,61.74,9712243
+Macao SAR,9962579,72,Home Equity Line of Credit Construction loan,7,1,323,304,2,Middle East and Africa,18681883,Middle East and Africa,Funding,123,78.08,9904002
+Norway,9880063,78,Home Equity Line of Credit Construction loan,14,1,478,600,10,Asia-Pacific,12420732,Europe,Application,176,63.31,9803138
+Austria,9121901,72,Fixed-rate mortgage,16,3.5,517,611,3,Americas,17104590,Europe,Underwriting,804,75.01,9950039
+Denmark,9047094,73,Home Equity Line of Credit Construction loan,17,2.5,402,456,9,Americas,34268070,Europe,Underwriting,269,75.01,10096568
+Brunei,9319963,90,Adjustable-rate mortgage,40,2.5,343,584,10,Americas,27009359,Europe,Funding,265,87.44,9551895
+Ireland,9878975,79,Adjustable-rate mortgage,25,2,367,301,6,Asia-Pacific,17110457,Americas,Underwriting,267,71.9,11051011
+Darussalam,9061397,72,Jumbo mortgage,12,4,565,500,6,Asia-Pacific,18286673,Asia-Pacific,Underwriting,375,86.43,10085710
+SAR United States,9253376,78,Home Equity Line of Credit Construction loan,36,"",441,533,4,Americas,30172080,Middle East and Africa,Application,455,61.73,10460340
+Kuwait,9701763,85,Home Equity Line of Credit Construction loan,32,1.5,478,560,7,Middle East and Africa,31068656,Asia-Pacific,Underwriting,165,82.15,10151940
+Qatar,9269960,85,Fixed-rate mortgage,10,1,588,521,1,Americas,12406176,Asia-Pacific,Lead,783,83.13,11832799
+Norway,9213367,80,Fixed-rate mortgage,23,2.5,610,364,4,Asia-Pacific,21370555,Middle East and Africa,Lead,719,85.8,11173895
+Hong Kong,9705930,70,Jumbo mortgage,16,"",488,559,5,Middle East and Africa,26437146,Americas,Funding,654,71.23,11409219
+Brunei,9445390,77,Jumbo mortgage,29,3,518,695,6,Europe,28399016,Americas,Application,310,78.76,9710226
+Brunei,9483855,73,Home Equity Line of Credit Construction loan,24,4,532,738,3,Asia-Pacific,19196466,Europe,Funding,979,60.68,10490575
+Germany,9597484,79,Fixed-rate mortgage,30,2.5,257,728,3,Middle East and Africa,25783291,Europe,Application,792,73.98,9814797
+Kuwait,9174510,74,Fixed-rate mortgage,26,2.5,478,731,8,Asia-Pacific,30139583,Middle East and Africa,Funding,697,87.14,11314246
+Hong Kong,9066757,82,Adjustable-rate mortgage,13,1,513,600,4,Asia-Pacific,12368843,Americas,Application,737,67.94,10773813
+Netherlands,9058285,80,Adjustable-rate mortgage,9,2,625,411,2,Middle East and Africa,14592858,Middle East and Africa,Lead,838,75.2,9585741
+Luxembourg,9701453,79,Jumbo mortgage,16,2.5,629,329,2,Middle East and Africa,13133986,Asia-Pacific,Funding,755,74.86,11473313
+Macao SAR,9328582,90,Adjustable-rate mortgage,23,0.5,351,770,9,Americas,14087444,Europe,Lead,142,85.44,9755927
+SAR United States,9339914,77,Jumbo mortgage,18,2,560,718,5,Asia-Pacific,34926063,Middle East and Africa,Underwriting,638,77.95,10387970
+Iceland,9571627,70,Adjustable-rate mortgage,32,2,307,542,4,Europe,33812772,Asia-Pacific,Lead,107,65.16,10342026
+Iceland,9557505,85,Jumbo mortgage,22,4,641,342,9,Europe,31304808,Americas,Application,891,76.0,11859791
+Macao SAR,9948636,74,Jumbo mortgage,31,1.5,621,425,7,Europe,16422965,Americas,Underwriting,592,66.37,11516554
+SAR United States,9836936,81,Home Equity Line of Credit Construction loan,9,3,370,564,6,Americas,15623070,Americas,Lead,555,65.6,10974578
+Iceland,9956704,85,Adjustable-rate mortgage,33,2,478,704,7,Asia-Pacific,25416086,Asia-Pacific,Application,510,68.69,11733985
+Brunei,9129553,82,Jumbo mortgage,16,4,397,797,10,Middle East and Africa,15602361,Middle East and Africa,Funding,764,68.43,11199608
+Austria,9102765,76,Home Equity Line of Credit Construction loan,25,0.5,413,547,5,Middle East and Africa,23517218,Americas,Application,839,67.25,11865635
+Germany,9058580,79,Home Equity Line of Credit Construction loan,10,0.5,288,604,2,Europe,26761610,Asia-Pacific,Application,512,74.62,10741667
+Macao SAR,9071290,83,Jumbo mortgage,14,0.5,496,500,4,Asia-Pacific,28710760,Europe,Funding,680,70.37,10264326
+Iceland,9133679,80,Fixed-rate mortgage,10,4,578,593,3,Middle East and Africa,24224417,Americas,Application,184,68.8,11328294
+Brunei,9718780,82,Adjustable-rate mortgage,40,4,603,414,3,Europe,11897475,Europe,Underwriting,373,79.29,10502630
+Ireland,9930574,84,Adjustable-rate mortgage,37,2,380,477,8,Asia-Pacific,28327749,Europe,Funding,596,63.54,11541581
+Australia,9647936,82,Fixed-rate mortgage,30,1.5,602,346,4,Americas,22416538,Asia-Pacific,Application,750,79.39,11693716
+Hong Kong,9411575,73,Home Equity Line of Credit Construction loan,39,2.5,435,662,3,Asia-Pacific,23303306,Asia-Pacific,Underwriting,758,74.56,10327299
+Australia,9278002,72,Fixed-rate mortgage,13,3.5,257,844,10,Europe,14150707,Americas,Application,691,77.78,9812830
+Kuwait,9742720,72,Adjustable-rate mortgage,30,1,264,406,2,Asia-Pacific,21022529,Europe,Funding,159,67.12,11607412
+Austria,9381913,70,Fixed-rate mortgage,13,0.5,297,463,9,Asia-Pacific,19056925,Europe,Funding,237,62.55,9679136
+Singapore,9953405,87,Home Equity Line of Credit Construction loan,6,0.5,505,740,8,Asia-Pacific,24094220,Americas,Application,912,75.37,11557742
+Qatar,9919164,85,Jumbo mortgage,32,2,568,830,6,Europe,25720202,Europe,Funding,683,67.59,11149942
+Norway,9904897,81,Home Equity Line of Credit Construction loan,31,2.5,533,592,9,Americas,20863870,Europe,Lead,452,83.93,9951739
+Luxembourg,9553348,72,Fixed-rate mortgage,26,3,617,669,5,Americas,31054408,Asia-Pacific,Lead,744,63.44,9909893
+United Arab Emirates,9030992,88,Jumbo mortgage,11,2,374,783,3,Europe,15682275,Middle East and Africa,Application,919,76.83,9577560
+Macao SAR,9140305,90,Jumbo mortgage,40,2.5,266,683,8,Middle East and Africa,26401523,Europe,Lead,856,87.59,9815596
+Qatar,9941238,73,Adjustable-rate mortgage,38,4,469,322,9,Asia-Pacific,24364283,Asia-Pacific,Application,464,69.15,11802715
+Germany,9641506,89,Adjustable-rate mortgage,13,1,360,421,7,Americas,27457177,Asia-Pacific,Application,555,79.13,11087222
+Austria,9901634,87,Home Equity Line of Credit Construction loan,16,1,442,536,9,Europe,17627500,Middle East and Africa,Underwriting,526,77.53,11464608
+Norway,9246793,72,Home Equity Line of Credit Construction loan,19,3.5,637,804,9,Europe,28549933,Asia-Pacific,Funding,367,75.71,10433058
+SAR United States,9381873,74,Home Equity Line of Credit Construction loan,36,"",274,684,1,Asia-Pacific,21433331,Americas,Underwriting,287,75.33,11083569
+SAR United States,9895278,77,Jumbo mortgage,8,1,603,416,1,Americas,15957550,Middle East and Africa,Application,325,76.31,9838581
+Macao SAR,9656520,87,Adjustable-rate mortgage,25,3,301,406,3,Asia-Pacific,16729957,Asia-Pacific,Funding,900,67.41,10595359
+Iceland,9480584,81,Fixed-rate mortgage,20,2.5,409,650,4,Asia-Pacific,12762732,Middle East and Africa,Lead,840,76.96,10002190
+Australia,9628904,71,Jumbo mortgage,13,2,567,602,5,Europe,13061550,Asia-Pacific,Underwriting,547,60.69,10340249
+Ireland,9194272,76,Fixed-rate mortgage,37,2,542,791,2,Americas,30897631,Middle East and Africa,Application,885,78.18,9565170
+"",9228691,80,Fixed-rate mortgage,13,3.5,301,827,7,Europe,17175067,Middle East and Africa,Lead,280,79.19,11756242
+Netherlands,9843054,83,Adjustable-rate mortgage,25,3.5,254,438,6,Middle East and Africa,32542461,Americas,Application,351,60.86,11700010
+Ireland,9813899,82,Adjustable-rate mortgage,20,"",332,736,9,Europe,28433338,Europe,Underwriting,716,79.31,9639710
+Macao SAR,9674790,90,Adjustable-rate mortgage,32,0.5,504,809,1,Asia-Pacific,13774393,Americas,Funding,451,73.05,11404775
+Singapore,9828071,82,Home Equity Line of Credit Construction loan,36,"",362,680,6,Middle East and Africa,34694512,Middle East and Africa,Funding,745,82.77,11749546
+Hong Kong,9919490,77,Fixed-rate mortgage,20,3.5,467,791,3,Europe,27649211,Europe,Application,300,72.51,10362320
+United Arab Emirates,9856237,88,Jumbo mortgage,15,3.5,492,349,1,Europe,28100630,Asia-Pacific,Lead,368,80.36,10857663
+Australia,9940838,75,Home Equity Line of Credit Construction loan,35,3,615,575,3,Americas,26050121,Middle East and Africa,Underwriting,745,76.63,9873466
+Macao SAR,9576414,80,Fixed-rate mortgage,36,2,504,423,3,Americas,22194838,Americas,Funding,759,75.06,9887645
+Netherlands,9671940,85,Jumbo mortgage,5,3.5,417,360,3,Americas,33014172,Europe,Funding,769,80.54,11874915
+Austria,9214639,82,Adjustable-rate mortgage,35,2,638,324,3,Europe,13847507,Asia-Pacific,Funding,415,70.75,10683594
+Darussalam,9676030,77,Adjustable-rate mortgage,31,3,326,631,6,Europe,29079512,Asia-Pacific,Lead,899,63.7,10851799
+Sweden,9956319,87,Jumbo mortgage,39,4,565,432,5,Americas,28658734,Asia-Pacific,Lead,760,62.42,11877341
+Macao SAR,9459832,75,Jumbo mortgage,20,4,285,476,5,Asia-Pacific,26357696,Europe,Application,224,60.79,11649803
+Norway,9996872,76,Home Equity Line of Credit Construction loan,37,3,451,464,5,Asia-Pacific,27366423,Middle East and Africa,Lead,139,80.89,11246794
+Ireland,9116558,86,Home Equity Line of Credit Construction loan,11,2,464,734,3,Asia-Pacific,31943728,Asia-Pacific,Underwriting,335,85.62,9780583
+Ireland,9399619,74,Jumbo mortgage,12,"",537,571,6,Asia-Pacific,31578679,Asia-Pacific,Funding,205,72.2,10339481
+Ireland,9393426,84,Adjustable-rate mortgage,22,3.5,611,472,10,Asia-Pacific,24269447,Middle East and Africa,Application,113,86.03,11490807
+Brunei,9114595,74,Jumbo mortgage,12,2,423,591,4,Europe,12957304,Europe,Lead,606,76.43,9761286
+Switzerland,9843816,84,Adjustable-rate mortgage,11,4,306,773,10,Americas,28913459,Americas,Underwriting,580,65.44,11188156
+Netherlands,9097425,81,Adjustable-rate mortgage,17,2,437,486,2,Asia-Pacific,19674225,Americas,Funding,612,74.95,10075441
+Macao SAR,9760493,70,Adjustable-rate mortgage,12,3.5,523,307,5,Americas,21795785,Middle East and Africa,Underwriting,831,77.83,11402902
+Singapore,9744565,73,Fixed-rate mortgage,25,2,374,560,6,Middle East and Africa,32948208,Asia-Pacific,Lead,645,88.27,9709448
+Iceland,9848643,90,Adjustable-rate mortgage,29,3.5,413,381,9,Middle East and Africa,31404401,Americas,Lead,104,65.34,10247577
+San Marino,9197128,75,Fixed-rate mortgage,33,"",446,347,9,Americas,32640037,Americas,Funding,614,63.7,9944599
+Norway,9311997,70,Adjustable-rate mortgage,31,1,330,801,6,Americas,25711076,Asia-Pacific,Application,896,68.13,10247100
+Netherlands,9671732,90,Jumbo mortgage,35,3.5,540,832,1,Americas,23986770,Asia-Pacific,Application,765,63.32,10632404
+SAR United States,9060940,77,Fixed-rate mortgage,15,1,350,529,3,Asia-Pacific,18278232,Europe,Underwriting,318,87.34,11646806
+San Marino,9498752,71,Home Equity Line of Credit Construction loan,5,2.5,404,554,7,Middle East and Africa,13401897,Middle East and Africa,Application,918,80.82,10518798
+Hong Kong,9086373,78,Adjustable-rate mortgage,13,0.5,372,651,10,Europe,23239890,Middle East and Africa,Lead,638,79.32,10634023
+Qatar,9061222,72,Fixed-rate mortgage,10,2,507,493,4,Americas,12701772,Middle East and Africa,Funding,505,66.34,11588978
+"",9974820,87,Adjustable-rate mortgage,33,2.5,427,583,9,Asia-Pacific,27512918,Asia-Pacific,Funding,492,76.25,10521513
+Austria,9222698,88,Fixed-rate mortgage,7,2.5,624,630,7,Middle East and Africa,22654374,Middle East and Africa,Application,487,80.01,10640283
+Ireland,9122755,74,Fixed-rate mortgage,25,0.5,408,666,10,Americas,10908198,Europe,Application,383,82.81,11051182
+Norway,9543417,87,Adjustable-rate mortgage,13,3,266,378,6,Americas,25248164,Europe,Underwriting,261,68.43,9634542
+Kuwait,9195374,81,Jumbo mortgage,18,3.5,302,330,4,Asia-Pacific,10415828,Americas,Application,693,81.84,11485370
+"",9547878,81,Jumbo mortgage,8,1.5,463,577,7,Americas,15506993,Asia-Pacific,Funding,777,79.32,10983941
+Norway,9653526,70,Fixed-rate mortgage,34,1,582,838,6,Middle East and Africa,23059451,Europe,Underwriting,442,68.89,11980164
+Sweden,9724651,72,Fixed-rate mortgage,23,1.5,251,734,2,Europe,19987388,Asia-Pacific,Lead,847,80.14,10312777
+Netherlands,9212719,80,Jumbo mortgage,15,2.5,555,456,1,Europe,26887633,Americas,Lead,283,64.19,10211761
+Australia,9501470,76,Fixed-rate mortgage,16,4,373,762,7,Middle East and Africa,23777107,Asia-Pacific,Underwriting,414,88.91,10000924
+Denmark,9661234,89,Jumbo mortgage,8,1.5,609,443,9,Europe,12174912,Asia-Pacific,Lead,711,69.53,9607261
+Sweden,9636588,81,Fixed-rate mortgage,15,2.5,598,760,4,Americas,15126633,Americas,Funding,478,88.18,9560406
+Ireland,9599341,84,Fixed-rate mortgage,35,1.5,270,639,3,Europe,26021398,Americas,Funding,287,89.25,9715007
+Switzerland,9182500,80,Jumbo mortgage,13,3.5,616,838,5,Middle East and Africa,16823095,Middle East and Africa,Application,337,66.34,10771167
+Qatar,9643892,86,Fixed-rate mortgage,28,3.5,636,612,1,Asia-Pacific,18707730,Americas,Lead,252,84.34,10621551
+Germany,9868150,89,Jumbo mortgage,22,3.5,607,777,9,Americas,18041953,Americas,Funding,861,88.35,11911683
+San Marino,9812584,86,Adjustable-rate mortgage,6,1,378,762,3,Asia-Pacific,24260046,Americas,Underwriting,673,71.3,10002297
+Macao SAR,9145234,85,Adjustable-rate mortgage,6,0.5,598,650,4,Asia-Pacific,25350681,Americas,Underwriting,688,71.2,10035299
+San Marino,9158278,70,Jumbo mortgage,32,2.5,323,849,6,Europe,22846527,Americas,Lead,624,63.53,10082471
+Switzerland,9554629,84,Jumbo mortgage,32,4,364,637,8,Middle East and Africa,15344459,Europe,Application,461,80.59,10724400
+Germany,9029459,83,Fixed-rate mortgage,5,3,369,615,4,Americas,15666973,Asia-Pacific,Funding,607,75.2,10150341
+Netherlands,9068550,74,Fixed-rate mortgage,26,3,627,330,2,Middle East and Africa,19445430,Asia-Pacific,Application,580,65.45,9942312
+Australia,9600866,89,Jumbo mortgage,25,3,467,578,2,Americas,10611854,Asia-Pacific,Lead,746,63.49,10885705
+"",9369324,75,Adjustable-rate mortgage,8,2,276,743,7,Europe,21702829,Middle East and Africa,Lead,653,81.63,9801905
+Hong Kong,9922966,88,Fixed-rate mortgage,28,2.5,346,848,10,Europe,29263876,Asia-Pacific,Underwriting,672,61.23,11443159
+Austria,9415366,70,Adjustable-rate mortgage,21,3,260,713,1,Americas,31509852,Europe,Underwriting,562,62.76,11269720
+United Arab Emirates,9643237,74,Fixed-rate mortgage,6,1.5,639,368,10,Europe,17213180,Europe,Funding,475,80.22,10987409
+Brunei,9013754,74,Jumbo mortgage,22,3,358,321,4,Europe,18905387,Middle East and Africa,Lead,162,72.73,11923991
+Denmark,9137216,85,Fixed-rate mortgage,31,1.5,526,632,8,Americas,33581026,Americas,Underwriting,621,66.48,10328706
+Hong Kong,9985549,82,Home Equity Line of Credit Construction loan,10,3,463,792,3,Asia-Pacific,20330123,Middle East and Africa,Lead,398,84.4,10352181
+Iceland,9031302,81,Jumbo mortgage,37,0.5,316,751,6,Middle East and Africa,31948800,Middle East and Africa,Application,609,75.56,10913646
+Denmark,9898549,83,Adjustable-rate mortgage,25,1.5,349,781,8,Asia-Pacific,15041156,Asia-Pacific,Underwriting,272,67.82,11894830
+Sweden,9404479,76,Home Equity Line of Credit Construction loan,37,3,588,322,6,Middle East and Africa,18506069,Americas,Funding,298,87.24,10305661
+Qatar,9008629,76,Jumbo mortgage,35,2.5,631,495,9,Europe,19256210,Middle East and Africa,Lead,266,60.51,10157093
+Qatar,9596868,90,Home Equity Line of Credit Construction loan,6,2.5,380,702,9,Middle East and Africa,25087869,Asia-Pacific,Funding,801,63.41,11830986
+Luxembourg,9668694,79,Fixed-rate mortgage,25,2.5,369,628,7,Americas,25808617,Asia-Pacific,Application,389,66.32,11811141
+Austria,9995170,84,Jumbo mortgage,22,"",408,406,4,Asia-Pacific,20079388,Asia-Pacific,Lead,614,68.13,11629964
+Norway,9864332,87,Jumbo mortgage,37,2.5,425,645,10,Asia-Pacific,11184180,Americas,Funding,120,70.72,9714482
+San Marino,9403694,87,Fixed-rate mortgage,18,3,595,652,2,Asia-Pacific,22903572,Asia-Pacific,Underwriting,467,86.61,9697803
+Luxembourg,9523855,78,Fixed-rate mortgage,16,2.5,634,625,4,Americas,31417969,Americas,Lead,408,73.95,10909995
+Iceland,9594899,83,Fixed-rate mortgage,15,2.5,306,487,6,Asia-Pacific,24960968,Asia-Pacific,Funding,973,65.88,10809883
+Singapore,9171616,82,Fixed-rate mortgage,8,1,506,341,5,Middle East and Africa,29373951,Middle East and Africa,Funding,688,79.25,10554624
+SAR United States,9957326,72,Fixed-rate mortgage,30,3,287,504,10,Asia-Pacific,19501199,Middle East and Africa,Application,788,73.12,10749518
+Luxembourg,9585329,80,Adjustable-rate mortgage,33,"",490,731,9,Europe,28115926,Americas,Funding,208,62.12,11766110
+Ireland,9391842,88,Fixed-rate mortgage,11,0.5,611,487,4,Middle East and Africa,29266903,Americas,Underwriting,728,61.85,10951801
+Singapore,9262389,76,Jumbo mortgage,10,1.5,618,393,5,Asia-Pacific,19751304,Americas,Application,841,67.32,11536175
+Qatar,9426124,82,Home Equity Line of Credit Construction loan,36,1.5,372,747,2,Europe,23846257,Europe,Lead,442,68.32,11237458
+Darussalam,9667755,70,Adjustable-rate mortgage,6,3,570,504,1,Europe,21508822,Middle East and Africa,Funding,236,71.84,10257308
+Qatar,9419309,74,Fixed-rate mortgage,37,"",328,303,10,Americas,29303578,Asia-Pacific,Lead,960,70.69,10924480
+Brunei,9833388,75,Home Equity Line of Credit Construction loan,18,2.5,287,320,10,Middle East and Africa,15633897,Americas,Funding,568,75.66,10793376
+Brunei,9182334,73,Jumbo mortgage,36,0.5,583,574,7,Middle East and Africa,18819669,Asia-Pacific,Underwriting,436,77.31,9721445
+Sweden,9209713,75,Jumbo mortgage,38,"",570,452,2,Europe,11079700,Americas,Application,755,72.63,10199437
+Luxembourg,9985519,80,Fixed-rate mortgage,6,1.5,507,724,8,Asia-Pacific,19248675,Asia-Pacific,Funding,469,89.98,11860234
+San Marino,9109494,80,Jumbo mortgage,13,3.5,533,660,1,Asia-Pacific,30299072,Americas,Application,319,87.51,11607731
+Macao SAR,9988962,81,Home Equity Line of Credit Construction loan,22,4,503,694,9,Asia-Pacific,22203048,Americas,Application,527,73.94,10102076
+Switzerland,9142441,90,Fixed-rate mortgage,25,3,399,606,3,Americas,21069393,Americas,Underwriting,329,83.02,10042839
+Australia,9151398,84,Adjustable-rate mortgage,10,4,596,465,3,Europe,28464815,Asia-Pacific,Application,157,64.56,11822346
+Qatar,9525929,84,Adjustable-rate mortgage,5,2.5,375,486,10,Europe,32005548,Asia-Pacific,Application,937,70.08,9633882
+Hong Kong,9900178,90,Fixed-rate mortgage,19,1,499,687,3,Americas,34183588,Europe,Application,252,76.76,10325815
+Norway,9518564,74,Adjustable-rate mortgage,20,3,505,799,6,Europe,31347953,Americas,Underwriting,187,86.7,11606731
+Switzerland,9679810,72,Jumbo mortgage,16,3.5,308,673,8,Asia-Pacific,31663459,Asia-Pacific,Funding,674,86.47,11879870
+Norway,9569191,88,Jumbo mortgage,21,"",481,845,10,Middle East and Africa,31341344,Europe,Funding,896,74.18,10156905
+Iceland,9657590,78,Home Equity Line of Credit Construction loan,20,1,646,819,2,Asia-Pacific,10924050,Middle East and Africa,Underwriting,273,65.7,11481546
+"",9568178,71,Adjustable-rate mortgage,25,0.5,542,741,3,Asia-Pacific,11025652,Americas,Lead,769,86.77,11666515
+Ireland,9879609,73,Home Equity Line of Credit Construction loan,7,2,314,791,10,Asia-Pacific,26475726,Middle East and Africa,Funding,615,63.02,10419201
+Kuwait,9595500,81,Home Equity Line of Credit Construction loan,25,1.5,414,696,10,Americas,21839953,Americas,Underwriting,606,69.56,10553283
+Australia,9634030,86,Adjustable-rate mortgage,5,0.5,279,818,4,Asia-Pacific,28221286,Asia-Pacific,Underwriting,865,82.21,10153648
+Sweden,9676589,73,Fixed-rate mortgage,23,3,405,764,4,Asia-Pacific,25710868,Americas,Lead,884,81.43,11351528
+"",9863915,87,Fixed-rate mortgage,12,"",438,567,3,Europe,13441594,Asia-Pacific,Underwriting,186,65.35,9534530
+Ireland,9062835,75,Home Equity Line of Credit Construction loan,9,1.5,574,339,1,Asia-Pacific,26472798,Americas,Lead,628,82.75,11485091
+Sweden,9393794,83,Adjustable-rate mortgage,33,1,257,744,3,Europe,26304075,Americas,Application,780,85.11,10134895
+Germany,9291386,73,Home Equity Line of Credit Construction loan,6,"",464,732,8,Europe,18803826,Asia-Pacific,Lead,901,82.78,10264705
+Switzerland,9820797,77,Jumbo mortgage,28,4,428,386,10,Americas,24086612,Asia-Pacific,Underwriting,997,80.59,11147474
+Austria,9579048,88,Fixed-rate mortgage,22,2.5,472,660,10,Asia-Pacific,32245530,Europe,Lead,997,74.65,10154236
+Hong Kong,9820569,86,Home Equity Line of Credit Construction loan,40,2,432,378,4,Middle East and Africa,17180760,Americas,Application,905,81.09,11027945
+Australia,9382471,84,Fixed-rate mortgage,39,0.5,489,534,6,Europe,22386063,Americas,Underwriting,719,85.14,11364349
+Australia,9347280,76,Jumbo mortgage,9,3.5,300,544,10,Europe,17268955,Middle East and Africa,Application,271,71.24,10241540
+United Arab Emirates,9292636,88,Adjustable-rate mortgage,12,3.5,380,699,6,Europe,29427020,Europe,Funding,267,62.74,10493592
+Netherlands,9319085,79,Adjustable-rate mortgage,31,1,262,564,5,Middle East and Africa,33401055,Middle East and Africa,Lead,124,83.54,11714579
+Hong Kong,9090521,89,Home Equity Line of Credit Construction loan,29,4,450,679,3,Americas,19843233,Asia-Pacific,Lead,555,65.76,9893666
+Qatar,9965660,77,Jumbo mortgage,33,"",253,635,1,Europe,17746842,Americas,Application,588,66.63,10767487
+Netherlands,9588029,85,Fixed-rate mortgage,26,3,643,666,3,Asia-Pacific,13224988,Europe,Funding,595,77.28,10621788
+Germany,9191408,75,Adjustable-rate mortgage,15,2.5,568,671,3,Asia-Pacific,21215379,Middle East and Africa,Lead,141,84.02,11213244
+Brunei,9823055,73,Fixed-rate mortgage,21,3,290,835,1,Europe,31558106,Americas,Underwriting,708,61.86,10164241
+Qatar,9954792,86,Adjustable-rate mortgage,29,1,431,505,3,Americas,16079125,Americas,Underwriting,179,72.74,9632043
+Australia,9323622,73,Home Equity Line of Credit Construction loan,5,2.5,449,346,9,Americas,15514358,Asia-Pacific,Funding,282,76.86,11600920
+Qatar,9132878,74,Jumbo mortgage,16,1,497,556,1,Europe,11380073,Americas,Application,651,69.07,9537412
+Brunei,9832258,85,Jumbo mortgage,10,3.5,528,557,4,Middle East and Africa,31391825,Asia-Pacific,Lead,273,67.68,10606169
+Denmark,9834234,88,Fixed-rate mortgage,12,2,541,811,2,Americas,10266678,Asia-Pacific,Application,289,69.19,10383615
+Macao SAR,9599244,74,Fixed-rate mortgage,32,2.5,497,706,6,Middle East and Africa,29180786,Middle East and Africa,Funding,919,63.2,10656040
+Singapore,9976987,78,Home Equity Line of Credit Construction loan,23,3,394,642,1,Asia-Pacific,25082077,Europe,Application,943,89.8,9677500
+"",9145425,87,Home Equity Line of Credit Construction loan,36,3,450,605,5,Middle East and Africa,24157928,Americas,Underwriting,637,77.41,10206729
+San Marino,9411913,89,Jumbo mortgage,33,1,562,621,6,Europe,31046156,Europe,Underwriting,618,88.91,9595593
+Brunei,9007289,82,Adjustable-rate mortgage,7,1,284,529,4,Americas,28847435,Asia-Pacific,Application,144,71.74,11137612
+Sweden,9436091,84,Fixed-rate mortgage,40,3.5,315,424,5,Middle East and Africa,34176996,Middle East and Africa,Lead,644,77.35,10365360
+San Marino,9597496,87,Fixed-rate mortgage,11,4,424,787,4,Europe,27598396,Middle East and Africa,Lead,781,85.61,11247142
+Macao SAR,9330278,79,Fixed-rate mortgage,6,0.5,307,807,4,Americas,13991298,Middle East and Africa,Application,415,60.5,10775980
+Denmark,9478785,75,Adjustable-rate mortgage,28,0.5,437,729,6,Europe,19151692,Asia-Pacific,Lead,394,89.7,10544213
+Ireland,9854665,72,Home Equity Line of Credit Construction loan,18,0.5,551,496,1,Europe,14731844,Asia-Pacific,Application,483,83.67,11568344
+Netherlands,9044173,73,Adjustable-rate mortgage,7,"",334,546,9,Middle East and Africa,11248344,Asia-Pacific,Application,555,66.86,10107069
+San Marino,9570764,81,Jumbo mortgage,40,4,598,766,7,Americas,12454611,Middle East and Africa,Lead,944,85.49,10944391
+Brunei,9077805,87,Jumbo mortgage,20,1.5,464,666,1,Asia-Pacific,25784709,Asia-Pacific,Funding,558,78.06,10602440
+Darussalam,9331752,82,Home Equity Line of Credit Construction loan,5,2,491,396,5,Middle East and Africa,17849919,Middle East and Africa,Funding,137,61.81,11597297
+Kuwait,9701277,80,Fixed-rate mortgage,17,"",267,309,3,Middle East and Africa,28457180,Middle East and Africa,Lead,336,62.85,10935153
+Singapore,9827344,79,Adjustable-rate mortgage,7,4,378,516,8,Americas,29137211,Europe,Application,967,73.04,10103202
+"",9597534,73,Adjustable-rate mortgage,11,2.5,305,749,5,Asia-Pacific,33006411,Americas,Underwriting,310,81.49,9990530
+Brunei,9113320,90,Home Equity Line of Credit Construction loan,15,3.5,581,494,5,Europe,27560366,Asia-Pacific,Underwriting,521,79.33,9617975
+Brunei,9512842,89,Adjustable-rate mortgage,38,"",483,343,7,Americas,28887918,Europe,Lead,112,81.73,11571784
+SAR United States,9206159,74,Jumbo mortgage,18,4,462,332,6,Middle East and Africa,19979271,Europe,Lead,628,65.59,11620555
+Norway,9221221,81,Adjustable-rate mortgage,12,"",503,308,3,Americas,19247383,Middle East and Africa,Funding,370,68.1,10835244
+Hong Kong,9672847,89,Fixed-rate mortgage,28,4,595,635,8,Europe,10079685,Americas,Underwriting,682,72.49,9505627
+Denmark,9763743,74,Jumbo mortgage,22,0.5,379,506,4,Americas,29558324,Asia-Pacific,Application,758,82.53,10295615
+Netherlands,9929753,81,Fixed-rate mortgage,38,3.5,502,590,5,Americas,27157685,Europe,Underwriting,288,78.75,10812030
+Austria,9216377,86,Home Equity Line of Credit Construction loan,6,4,386,458,2,Americas,30268839,Europe,Underwriting,844,62.03,9869574
+Darussalam,9164102,90,Home Equity Line of Credit Construction loan,39,3.5,308,564,4,Asia-Pacific,19826701,Middle East and Africa,Lead,462,74.32,9573380
+Sweden,9536104,78,Jumbo mortgage,22,2.5,378,486,7,Europe,29117968,Middle East and Africa,Underwriting,660,80.16,9986518
+Hong Kong,9162275,75,Fixed-rate mortgage,21,0.5,259,710,9,Europe,20721267,Europe,Underwriting,613,61.54,10867863
+Austria,9729702,75,Adjustable-rate mortgage,17,2,364,808,10,Europe,25865490,Asia-Pacific,Underwriting,917,84.88,10277058
+Australia,9882331,83,Home Equity Line of Credit Construction loan,18,4,527,657,3,Americas,16245194,Europe,Funding,913,65.64,10826622
+Macao SAR,9763325,83,Home Equity Line of Credit Construction loan,15,2.5,457,638,4,Europe,26038762,Europe,Lead,570,80.94,9891012
+"",9433237,70,Fixed-rate mortgage,17,2,267,445,5,Americas,27080947,Americas,Application,100,66.53,10949367
+Singapore,9610593,88,Adjustable-rate mortgage,37,1,485,322,10,Asia-Pacific,18011539,Americas,Application,396,65.59,10026884
+Hong Kong,9238093,72,Fixed-rate mortgage,34,4,605,319,9,Middle East and Africa,13870488,Middle East and Africa,Funding,395,78.12,9762267
+Darussalam,9596336,85,Adjustable-rate mortgage,35,1.5,460,821,6,Europe,12044511,Middle East and Africa,Funding,309,89.29,11487790
+Darussalam,9154105,70,Home Equity Line of Credit Construction loan,23,1,337,661,7,Europe,30205689,Europe,Underwriting,538,68.94,10375820
+Hong Kong,9157692,88,Fixed-rate mortgage,20,0.5,324,321,8,Europe,22751203,Europe,Funding,312,81.63,9990518
+San Marino,9759580,81,Fixed-rate mortgage,28,3,495,526,8,Europe,30904386,Middle East and Africa,Application,747,75.97,10218459
+Germany,9986590,81,Fixed-rate mortgage,7,2,630,568,10,Asia-Pacific,16869534,Asia-Pacific,Underwriting,757,73.57,9866183
+Australia,9692266,77,Fixed-rate mortgage,23,2.5,256,673,7,Americas,27687782,Middle East and Africa,Funding,891,85.27,11341748
+Norway,9882154,78,Jumbo mortgage,11,2.5,613,319,8,Middle East and Africa,23903099,Middle East and Africa,Application,774,77.81,11906317
+Iceland,9834347,77,Home Equity Line of Credit Construction loan,26,3.5,520,417,4,Middle East and Africa,30980835,Asia-Pacific,Underwriting,687,80.96,9725975
+Netherlands,9030080,78,Jumbo mortgage,5,2,612,429,9,Middle East and Africa,21048514,Asia-Pacific,Funding,281,88.77,10074301
+Australia,9029030,70,Jumbo mortgage,14,3.5,396,492,9,Middle East and Africa,23943851,Middle East and Africa,Funding,249,77.47,10084580
+Iceland,9935336,73,Adjustable-rate mortgage,28,2,565,332,5,Europe,34540291,Europe,Funding,734,86.57,11608674
+Luxembourg,9693344,70,Adjustable-rate mortgage,22,0.5,633,552,10,Americas,33634850,Europe,Underwriting,337,67.16,11022861
+Iceland,9654148,72,Fixed-rate mortgage,35,1.5,431,791,7,Asia-Pacific,19513312,Asia-Pacific,Funding,894,78.77,9588395
+Luxembourg,9379939,76,Fixed-rate mortgage,11,4,382,784,5,Middle East and Africa,12675519,Middle East and Africa,Underwriting,743,86.28,11921612
+Singapore,9095011,89,Adjustable-rate mortgage,6,1.5,408,309,8,Asia-Pacific,33769848,Asia-Pacific,Underwriting,790,73.08,11905954
+Australia,9427860,89,Home Equity Line of Credit Construction loan,11,4,284,745,4,Americas,31823058,Europe,Funding,688,60.66,9677243
+Germany,9661896,75,Fixed-rate mortgage,12,3,337,529,9,Americas,25076701,Middle East and Africa,Lead,387,62.52,10099543
+Sweden,9971596,78,Home Equity Line of Credit Construction loan,12,2,496,345,4,Middle East and Africa,34294310,Asia-Pacific,Application,440,67.79,10848662
+Austria,9659171,88,Adjustable-rate mortgage,8,1.5,649,374,7,Asia-Pacific,10603884,Middle East and Africa,Funding,418,83.1,10992016
+Darussalam,9626238,82,Home Equity Line of Credit Construction loan,21,"",406,341,2,Middle East and Africa,17301639,Middle East and Africa,Application,320,69.47,10053738
+United Arab Emirates,9018738,84,Fixed-rate mortgage,10,2,422,516,9,Asia-Pacific,20861003,Europe,Underwriting,663,68.18,10979851
+Germany,9764041,77,Home Equity Line of Credit Construction loan,11,2.5,444,361,6,Europe,23932980,Americas,Underwriting,270,83.38,9533785
+Netherlands,9899813,80,Home Equity Line of Credit Construction loan,17,4,439,593,5,Middle East and Africa,20559617,Middle East and Africa,Application,660,74.09,10303672
+Luxembourg,9558717,81,Jumbo mortgage,12,1.5,263,470,9,Americas,27899751,Asia-Pacific,Application,515,81.04,11444660
+Luxembourg,9050779,89,Jumbo mortgage,33,3,375,336,6,Europe,17140864,Americas,Underwriting,569,67.08,10263825
+Australia,9960785,78,Fixed-rate mortgage,14,2,293,780,4,Middle East and Africa,22246688,Europe,Lead,370,81.18,10387804
+Netherlands,9965648,71,Adjustable-rate mortgage,6,"",260,433,6,Europe,14797596,Middle East and Africa,Underwriting,263,64.77,11676082
+Hong Kong,9364483,77,Fixed-rate mortgage,23,2,453,362,6,Middle East and Africa,20101208,Asia-Pacific,Lead,264,81.19,9969562
+Qatar,9095476,90,Fixed-rate mortgage,24,"",498,484,3,Americas,18071683,Asia-Pacific,Application,682,80.5,10020957
+SAR United States,9454894,83,Adjustable-rate mortgage,39,2,650,308,9,Asia-Pacific,33138848,Europe,Application,516,83.82,11107618
+Denmark,9652004,74,Fixed-rate mortgage,9,3,615,703,6,Europe,30896189,Middle East and Africa,Lead,347,66.08,10700906
+Qatar,9243096,79,Adjustable-rate mortgage,12,4,625,462,8,Europe,15742309,Asia-Pacific,Application,652,78.8,11327081
+Norway,9340553,88,Home Equity Line of Credit Construction loan,21,2.5,428,571,8,Europe,33282748,Europe,Funding,291,64.16,11874790
+Macao SAR,9517267,72,Home Equity Line of Credit Construction loan,25,1.5,535,642,3,Americas,32265041,Europe,Lead,862,89.05,10872733
+Darussalam,9622436,86,Jumbo mortgage,20,3,628,338,1,Americas,22047267,Middle East and Africa,Underwriting,283,69.86,10629035
+Qatar,9101012,73,Fixed-rate mortgage,27,"",608,791,1,Middle East and Africa,26804599,Middle East and Africa,Underwriting,467,72.7,10766193
+United Arab Emirates,9994601,72,Fixed-rate mortgage,19,2,366,668,5,Asia-Pacific,31883592,Asia-Pacific,Application,219,60.56,10078576
+Switzerland,9503868,79,Fixed-rate mortgage,9,0.5,464,821,5,Middle East and Africa,12644957,Europe,Funding,341,61.51,9579028
+"",9558269,85,Home Equity Line of Credit Construction loan,23,3,274,415,9,Americas,20973164,Europe,Application,348,82.1,10988685
+Netherlands,9460617,77,Home Equity Line of Credit Construction loan,18,0.5,278,488,9,Middle East and Africa,30302962,Asia-Pacific,Funding,443,82.62,10227798
+Denmark,9807725,72,Fixed-rate mortgage,34,3.5,517,610,7,Europe,12795796,Europe,Underwriting,651,72.73,10170013
+Switzerland,9130961,77,Adjustable-rate mortgage,9,1,350,497,3,Americas,21976011,Middle East and Africa,Application,652,88.18,10792949
+Germany,9340470,85,Adjustable-rate mortgage,40,2,587,337,1,Europe,14891170,Middle East and Africa,Funding,103,76.59,11307403
+Switzerland,9880162,80,Adjustable-rate mortgage,6,1.5,616,737,3,Middle East and Africa,16678886,Middle East and Africa,Funding,461,63.83,10545053
+Switzerland,9206345,83,Jumbo mortgage,15,"",254,736,8,Middle East and Africa,34424492,Asia-Pacific,Funding,298,76.74,9884026
+Austria,9324507,76,Fixed-rate mortgage,7,2.5,611,774,6,Middle East and Africa,22049703,Asia-Pacific,Underwriting,929,65.6,11417831
+Netherlands,9431493,90,Home Equity Line of Credit Construction loan,35,0.5,533,439,1,Europe,10659647,Americas,Underwriting,875,86.5,11795030
+Switzerland,9793909,84,Jumbo mortgage,32,"",585,376,8,Middle East and Africa,27114365,Europe,Funding,108,61.45,11962555
+"",9579105,75,Jumbo mortgage,13,"",639,534,9,Americas,29914106,Europe,Application,820,61.64,11955606
+Singapore,9637084,71,Jumbo mortgage,7,4,636,714,1,Middle East and Africa,21840033,Europe,Underwriting,180,78.95,9586886
+Norway,9294438,83,Adjustable-rate mortgage,9,1,418,448,6,Asia-Pacific,12191603,Europe,Underwriting,842,63.48,10723406
+Ireland,9602163,78,Adjustable-rate mortgage,21,4,539,791,8,Americas,29992590,Europe,Underwriting,419,87.42,9649926
+SAR United States,9423367,79,Fixed-rate mortgage,18,"",509,838,8,Americas,32857276,Europe,Funding,361,68.18,11440854
+SAR United States,9743116,86,Fixed-rate mortgage,26,1.5,545,612,6,Europe,34942410,Middle East and Africa,Lead,853,83.86,10780790
+Iceland,9847107,76,Adjustable-rate mortgage,5,3.5,378,511,1,Americas,17617099,Asia-Pacific,Underwriting,546,89.3,10809568
+San Marino,9742879,84,Adjustable-rate mortgage,12,4,649,849,6,Europe,34163490,Asia-Pacific,Lead,706,83.47,10589347
+Hong Kong,9704984,76,Fixed-rate mortgage,23,3.5,546,810,7,Middle East and Africa,23091778,Americas,Lead,598,68.37,10651843
+Kuwait,9604529,74,Fixed-rate mortgage,10,2,509,322,7,Asia-Pacific,21831230,Middle East and Africa,Funding,767,74.92,11827310
+Denmark,9580493,88,Jumbo mortgage,24,3.5,458,609,9,Middle East and Africa,12628662,Europe,Underwriting,286,64.61,10915897
+Hong Kong,9994274,76,Fixed-rate mortgage,17,2,358,338,4,Asia-Pacific,29129967,Middle East and Africa,Funding,829,77.58,10901091
+Switzerland,9804078,70,Home Equity Line of Credit Construction loan,5,1,414,503,9,Europe,33743076,Middle East and Africa,Lead,971,83.89,11334191
+Brunei,9363935,85,Jumbo mortgage,34,3.5,340,654,6,Europe,34030670,Asia-Pacific,Lead,288,63.23,11378586
+Iceland,9962223,73,Adjustable-rate mortgage,20,"",268,448,4,Americas,29169679,Asia-Pacific,Lead,556,87.01,11037748
+Singapore,9861067,77,Home Equity Line of Credit Construction loan,10,2,296,562,4,Asia-Pacific,16308599,Europe,Underwriting,564,70.1,10072650
+"",9536414,79,Jumbo mortgage,35,1.5,352,549,7,Americas,13298006,Asia-Pacific,Application,910,62.42,11073166
+Hong Kong,9360411,70,Fixed-rate mortgage,10,1,266,802,4,Americas,24938086,Asia-Pacific,Funding,268,66.92,11209088
+Norway,9765755,84,Fixed-rate mortgage,12,2.5,357,587,3,Middle East and Africa,19751355,Americas,Lead,424,65.32,11537710
+Macao SAR,9906488,87,Adjustable-rate mortgage,18,3,368,725,2,Americas,26926888,Asia-Pacific,Application,590,88.24,10451897
+Hong Kong,9912726,78,Home Equity Line of Credit Construction loan,28,4,372,761,10,Americas,19324227,Americas,Lead,984,63.39,9722678
+Netherlands,9576801,86,Fixed-rate mortgage,18,0.5,530,796,2,Middle East and Africa,26636480,Americas,Funding,272,63.88,11685738
+Ireland,9088779,87,Fixed-rate mortgage,40,"",530,822,9,Europe,28155715,Americas,Underwriting,279,74.99,10319935
+Australia,9739923,81,Jumbo mortgage,19,4,394,708,6,Middle East and Africa,33265299,Americas,Application,933,83.82,10873682
+Kuwait,9887119,82,Fixed-rate mortgage,22,0.5,548,393,4,Asia-Pacific,24545077,Middle East and Africa,Application,991,88.11,11857969
+SAR United States,9808847,87,Jumbo mortgage,23,1.5,560,622,3,Middle East and Africa,11344351,Middle East and Africa,Funding,962,69.7,11700074
+San Marino,9820680,72,Home Equity Line of Credit Construction loan,15,2.5,478,388,6,Middle East and Africa,26529485,Americas,Lead,825,74.11,10666660
+Norway,9788056,77,Adjustable-rate mortgage,5,1,331,535,9,Europe,32686613,Middle East and Africa,Funding,394,62.22,10705830
+Denmark,9429922,82,Fixed-rate mortgage,19,2.5,324,756,8,Europe,28549565,Americas,Funding,723,84.95,10853702
+Luxembourg,9828442,70,Fixed-rate mortgage,6,1,499,409,10,Asia-Pacific,22246875,Americas,Funding,875,73.95,9693004
+Qatar,9795515,74,Home Equity Line of Credit Construction loan,29,2,473,745,3,Americas,11940454,Europe,Funding,365,89.98,11520766
+Sweden,9120578,83,Jumbo mortgage,24,"",398,664,8,Europe,34724562,Middle East and Africa,Underwriting,851,87.76,11997802
+Singapore,9089530,72,Adjustable-rate mortgage,37,"",388,593,10,Americas,10184385,Europe,Application,735,60.84,9500240
+Singapore,9809051,71,Jumbo mortgage,11,2.5,565,777,7,Europe,30206264,Asia-Pacific,Lead,361,62.03,10084660
+United Arab Emirates,9913908,90,Fixed-rate mortgage,20,4,403,815,10,Asia-Pacific,33803642,Americas,Funding,151,85.04,11077007
+Brunei,9786772,77,Home Equity Line of Credit Construction loan,23,1,266,692,5,Europe,13714857,Americas,Funding,871,73.82,11683793
+Netherlands,9654883,89,Fixed-rate mortgage,18,4,312,525,1,Europe,30461290,Middle East and Africa,Funding,634,75.4,10374729
+Denmark,9895782,80,Jumbo mortgage,39,4,258,579,5,Americas,27502042,Americas,Application,661,62.7,10935384
+Darussalam,9745099,73,Fixed-rate mortgage,32,2,467,442,7,Americas,32860115,Asia-Pacific,Lead,745,81.56,11431063
+Kuwait,9268197,79,Fixed-rate mortgage,24,3.5,487,398,4,Middle East and Africa,29458486,Europe,Lead,513,60.79,10252596
+Iceland,9170356,86,Jumbo mortgage,26,1,480,595,2,Asia-Pacific,14384442,Asia-Pacific,Application,140,80.24,11617289
+Germany,9101131,85,Home Equity Line of Credit Construction loan,7,4,407,787,4,Americas,21151958,Asia-Pacific,Lead,755,70.77,10267007
+Sweden,9280586,79,Adjustable-rate mortgage,30,4,590,787,10,Europe,32019275,Europe,Lead,999,66.61,11706675
+Brunei,9782192,85,Adjustable-rate mortgage,12,2,600,624,9,Americas,19671934,Americas,Underwriting,146,74.33,11269570
+SAR United States,9817321,83,Jumbo mortgage,6,1.5,555,747,7,Middle East and Africa,33191888,Middle East and Africa,Funding,766,63.02,10101183
+Iceland,9532858,70,Fixed-rate mortgage,39,"",580,561,7,Europe,14870994,Middle East and Africa,Application,818,89.67,10723304
+Darussalam,9857893,85,Adjustable-rate mortgage,36,1.5,414,566,7,Americas,19115030,Americas,Underwriting,307,62.05,11972055
+SAR United States,9065049,70,Home Equity Line of Credit Construction loan,16,3.5,584,709,4,Asia-Pacific,15824416,Americas,Application,150,87.88,10947942
+Netherlands,9565129,85,Adjustable-rate mortgage,14,1,265,739,5,Asia-Pacific,24493327,Middle East and Africa,Application,138,83.13,10629988
+United Arab Emirates,9564970,88,Fixed-rate mortgage,24,"",369,847,10,Europe,23516044,Europe,Lead,888,60.51,10209842
+United Arab Emirates,9594628,83,Jumbo mortgage,7,2,315,553,3,Americas,28877034,Middle East and Africa,Funding,569,60.93,10797658
+Denmark,9010838,74,Jumbo mortgage,30,1.5,438,742,7,Europe,28255528,Middle East and Africa,Application,354,73.31,9913261
+Germany,9206630,79,Adjustable-rate mortgage,9,0.5,568,505,10,Middle East and Africa,26567933,Middle East and Africa,Underwriting,338,88.68,11171193
+SAR United States,9505177,87,Home Equity Line of Credit Construction loan,13,1.5,473,513,2,Americas,32879108,Americas,Application,706,62.11,11754007
+Ireland,9953152,88,Fixed-rate mortgage,10,"",378,381,7,Americas,26939011,Europe,Underwriting,748,73.92,11281590
+United Arab Emirates,9576710,83,Home Equity Line of Credit Construction loan,37,0.5,393,674,9,Asia-Pacific,24617223,Europe,Underwriting,153,62.05,10021390
+SAR United States,9165878,83,Home Equity Line of Credit Construction loan,35,4,637,661,6,Middle East and Africa,27831046,Asia-Pacific,Underwriting,717,84.2,11349098
+Luxembourg,9517805,71,Adjustable-rate mortgage,5,0.5,480,471,9,Middle East and Africa,15269682,Asia-Pacific,Funding,552,69.21,11913860
+Sweden,9744152,87,Jumbo mortgage,16,3.5,398,808,7,Europe,33502298,Americas,Funding,388,87.29,10085793
+Norway,9642093,77,Home Equity Line of Credit Construction loan,26,1.5,325,606,3,Americas,31382319,Asia-Pacific,Application,138,86.37,9508517
+United Arab Emirates,9373390,70,Jumbo mortgage,6,0.5,427,544,8,Middle East and Africa,33382134,Americas,Funding,392,62.5,10145847
+Hong Kong,9407249,89,Jumbo mortgage,23,0.5,599,464,1,Americas,23361872,Asia-Pacific,Lead,526,71.14,10763257
+Netherlands,9322570,76,Adjustable-rate mortgage,31,3,287,409,8,Asia-Pacific,12810872,Asia-Pacific,Lead,780,71.13,9784412
+Norway,9450524,88,Jumbo mortgage,8,0.5,418,837,8,Americas,20598954,Asia-Pacific,Lead,860,71.23,10010504
+Sweden,9722718,73,Fixed-rate mortgage,21,"",309,390,6,Middle East and Africa,20271237,Asia-Pacific,Application,872,76.75,9571080
+Germany,9128983,89,Jumbo mortgage,35,4,349,392,10,Middle East and Africa,25824981,Americas,Funding,226,62.24,9802937
+Sweden,9118669,78,Home Equity Line of Credit Construction loan,24,2,438,836,1,Europe,14546525,Asia-Pacific,Lead,959,87.49,11737851
+Norway,9475674,72,Jumbo mortgage,29,1.5,386,793,3,Americas,31832045,Middle East and Africa,Funding,326,62.55,11335860
+Australia,9490993,72,Adjustable-rate mortgage,14,2,259,783,2,Americas,27674192,Middle East and Africa,Underwriting,532,60.55,11604609
+Brunei,9999256,86,Adjustable-rate mortgage,30,"",520,557,5,Middle East and Africa,29341748,Americas,Funding,964,66.46,10640317
+Australia,9486206,76,Jumbo mortgage,5,3.5,351,653,2,Europe,23293607,Middle East and Africa,Funding,994,73.05,10060830
+Macao SAR,9362913,88,Fixed-rate mortgage,18,1,557,394,10,Europe,14370853,Middle East and Africa,Funding,972,62.42,9734784
+Iceland,9026812,80,Adjustable-rate mortgage,36,2.5,428,381,3,Europe,14787753,Asia-Pacific,Funding,943,80.41,10053243
+Norway,9907908,86,Adjustable-rate mortgage,8,0.5,257,348,6,Asia-Pacific,29699497,Europe,Lead,973,81.41,10838964
+United Arab Emirates,9727358,85,Home Equity Line of Credit Construction loan,19,4,419,528,8,Middle East and Africa,28220533,Europe,Funding,241,81.69,9838417
+Austria,9370200,78,Home Equity Line of Credit Construction loan,33,2,617,312,6,Asia-Pacific,13544918,Asia-Pacific,Application,185,87.1,9785716
+Brunei,9204037,70,Adjustable-rate mortgage,12,2.5,258,398,2,Europe,33422653,Europe,Application,981,68.13,11553417
+Switzerland,9361272,81,Jumbo mortgage,27,2.5,413,395,2,Asia-Pacific,14286012,Middle East and Africa,Underwriting,877,62.44,11768351
+Kuwait,9058413,83,Jumbo mortgage,6,1,311,799,2,Americas,31318002,Europe,Funding,819,73.96,9788720
+United Arab Emirates,9232051,72,Fixed-rate mortgage,28,2.5,350,485,2,Europe,11501104,Europe,Application,249,76.8,9872017
+Sweden,9281846,79,Jumbo mortgage,38,2.5,260,352,2,Americas,33941340,Asia-Pacific,Funding,872,74.25,11240810
+SAR United States,9339632,86,Fixed-rate mortgage,29,3.5,580,632,9,Americas,15608089,Middle East and Africa,Funding,467,67.09,10736597
+Austria,9520188,87,Jumbo mortgage,30,1.5,498,687,1,Americas,30797519,Asia-Pacific,Underwriting,208,85.32,11756352
+Switzerland,9913838,89,Adjustable-rate mortgage,24,2,415,385,5,Middle East and Africa,18969012,Asia-Pacific,Lead,697,66.19,11465371
+Macao SAR,9604597,79,Home Equity Line of Credit Construction loan,7,4,498,771,1,Middle East and Africa,11186134,Americas,Application,496,74.91,10167660
+Australia,9803791,72,Adjustable-rate mortgage,33,4,640,693,4,Asia-Pacific,29994511,Middle East and Africa,Underwriting,319,61.01,9782185
+Austria,9848157,89,Jumbo mortgage,33,1.5,271,817,6,Americas,19979861,Europe,Application,649,69.31,11849638
+Iceland,9020751,71,Adjustable-rate mortgage,31,"",595,614,8,Europe,33364222,Asia-Pacific,Lead,224,63.05,10526726
+SAR United States,9233349,77,Home Equity Line of Credit Construction loan,39,4,294,822,4,Europe,32333036,Middle East and Africa,Underwriting,114,70.44,9939249
+Brunei,9166524,81,Adjustable-rate mortgage,25,0.5,412,514,10,Middle East and Africa,17059242,Asia-Pacific,Lead,255,81.69,10270019
+Netherlands,9252741,73,Fixed-rate mortgage,31,2.5,418,677,4,Asia-Pacific,31988489,Europe,Underwriting,594,89.42,10764812
+Denmark,9294893,80,Fixed-rate mortgage,11,"",491,513,5,Middle East and Africa,16697554,Middle East and Africa,Application,964,88.85,11287956
+Luxembourg,9393967,73,Adjustable-rate mortgage,35,4,364,335,10,Americas,21351296,Asia-Pacific,Underwriting,350,67.79,11677412
+Singapore,9512531,81,Home Equity Line of Credit Construction loan,12,2,355,682,7,Europe,28704316,Europe,Lead,546,64.84,11290171
+Iceland,9517385,88,Home Equity Line of Credit Construction loan,39,2,480,388,3,Americas,12348049,Europe,Underwriting,204,81.35,10035339
+SAR United States,9037242,78,Adjustable-rate mortgage,14,1.5,251,319,1,Europe,23633672,Asia-Pacific,Underwriting,561,67.07,10519043
+Switzerland,9010406,79,Jumbo mortgage,34,1,502,366,8,Asia-Pacific,15464593,Asia-Pacific,Funding,433,70.42,11960625
+Switzerland,9248321,84,Adjustable-rate mortgage,32,2,597,567,10,Europe,29742968,Americas,Funding,959,69.65,11611983
+Switzerland,9040464,81,Home Equity Line of Credit Construction loan,27,0.5,305,449,3,Americas,33361554,Middle East and Africa,Underwriting,721,69.56,9526582
+Ireland,9797723,84,Fixed-rate mortgage,12,2,273,592,7,Americas,24463678,Middle East and Africa,Underwriting,358,75.69,9542307
+Darussalam,9365072,88,Home Equity Line of Credit Construction loan,16,2.5,461,650,5,Europe,22361562,Europe,Underwriting,471,74.69,11080132
+Singapore,9230487,81,Adjustable-rate mortgage,21,3,431,403,3,Europe,16025986,Europe,Underwriting,928,88.62,10760248
+United Arab Emirates,9571859,85,Fixed-rate mortgage,8,1,324,537,1,Asia-Pacific,11356141,Europe,Application,456,69.85,11843815
+Germany,9817278,73,Home Equity Line of Credit Construction loan,32,3,487,502,3,Asia-Pacific,29752559,Asia-Pacific,Underwriting,521,85.13,11451958
+Kuwait,9315522,87,Adjustable-rate mortgage,5,4,602,528,5,Asia-Pacific,18749001,Europe,Lead,296,68.65,10512247
+Hong Kong,9981985,76,Jumbo mortgage,28,1,301,454,10,Americas,27606678,Asia-Pacific,Underwriting,915,71.33,11977621
+Austria,9190833,80,Adjustable-rate mortgage,39,1.5,645,451,7,Americas,16453984,Americas,Lead,268,86.04,11817185
+Singapore,9080041,78,Adjustable-rate mortgage,19,"",313,662,8,Middle East and Africa,18220113,Asia-Pacific,Application,497,69.61,10200391
+Norway,9652537,71,Fixed-rate mortgage,15,0.5,343,359,8,Asia-Pacific,28855991,Americas,Lead,943,64.24,11806094
+"",9631756,81,Fixed-rate mortgage,6,2,292,368,6,Europe,17845578,Asia-Pacific,Underwriting,759,89.38,10484608
+Ireland,9915546,78,Adjustable-rate mortgage,26,"",606,788,9,Middle East and Africa,14764279,Asia-Pacific,Application,997,67.31,9682016
+Denmark,9013239,88,Fixed-rate mortgage,9,2.5,447,709,4,Asia-Pacific,11636090,Middle East and Africa,Underwriting,749,87.83,10899657
